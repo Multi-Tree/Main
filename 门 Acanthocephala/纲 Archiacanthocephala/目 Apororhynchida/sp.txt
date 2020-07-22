@@ -1,1 +1,10 @@
+Apororhynchus hemignathi (Shipley , 1896)
+中文名：无
+|
+Apororhynchus is a genus of small parasitic spiny-headed (or thorny-headed) worms. It is the only genus in the family Apororhynchidae , which in turn is the only member of the order Apororhynchida . [3] A lack of features commonly found in the phylum Acanthocephala (primarily musculature) suggests an evolutionary branching from the other three orders of class Archiacanthocephala ; however no genetic analysis has been completed to determine the evolutionary relationship between species. The distinguishing features of this order among archiacanthocephalans is a highly enlarged proboscis which contain small hooks. The musculature around the proboscis (the proboscis receptacle and receptacle protrusor) is also structured differently in this order. This genus contains six species that are distributed globally, being collected sporadically in Hawaii, Europe, North America, South America, and Asia. These worms exclusively parasitize birds by attaching themselves around the cloaca using their hook-covered proboscis . The bird hosts are of different orders, including owls , waders , and passerines . Infestation by an Apororhynchus species may cause enteritis and anemia .
+
+A. hemignathi was the first species of Apororhynchus to be described with the creation of the genus and family by Arthur Shipley in 1896 due to its uniqueness among already described Acanthocephala. [16] It has been found in Kaua'i , Hawaii , parasitizing the now extinct Kauaʻi ʻakialoa ( Akialoa stejnegeri ). [16] A. hemignathi was named after the genus of the Kauaʻi ʻakialoa, which was Hemignathus at the time of the description. Specimens range from 2.5 mm to 3.5 mm long, distended 1 mm to 1.5 mm longer. [4] It has two to four nuclei in the lemnisci. [24] It is the type species for the genus. [10]
+|
+ref
+https://en.wikipedia.org/wiki/Apororhynchus
 
