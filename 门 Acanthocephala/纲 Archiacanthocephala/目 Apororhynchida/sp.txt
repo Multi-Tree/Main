@@ -9,8 +9,11 @@ ref
 txt https://en.wikipedia.org/wiki/Apororhynchus
 img https://en.wikipedia.org/wiki/Apororhynchus
 vid null
+|
+publication
+null
 
-主要分成三个部分，各个部分之间用"|"隔开
+主要分成四个部分，各个部分之间用"|"隔开
 名称
 学名
 中文名：（有则直接写明）/无
@@ -20,4 +23,7 @@ vid null
 |
 引用(ref)
 注明文字、图片和视频的引用网址即可
+没有时标注null
+|
+出版物
 没有时标注null
