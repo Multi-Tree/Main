@@ -8,3 +8,13 @@ A. hemignathi was the first species of Apororhynchus to be described with the cr
 ref
 https://en.wikipedia.org/wiki/Apororhynchus
 
+主要分成三个部分，各个部分之间用"|"隔开
+名称
+学名
+中文名：（有则直接写明）/无
+|
+描述
+描述的分段用回车隔开
+|
+引用(ref)
+注明网址即可
