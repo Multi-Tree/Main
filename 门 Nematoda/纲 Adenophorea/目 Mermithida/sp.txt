@@ -1,0 +1,16 @@
+Mermis nigrescens (Dujardin, 1842)
+中文名：黑色索线虫
+|
+This is a very large nematode, the male about 4 to 6 centimeters long[1] and the female known to exceed 20 centimeters.[3] The size is unusual for entomopathogenic nematodes, which are generally almost microscopic.[2] The body is pale brown,[2] and the gravid female has a dark stripe down the length of its body due to the presence of up to 14,000 eggs.[1] The body surface is smooth. It tapers at the front end, and the head and tail are rounded.[3]
+
+The adult female has a bright red[4] or orange-red[3] spot on its head. Early in studies of the nematode, this was called the "chromatrope", because it apparently had a function in the animal's response to light.[4] On closer examination it had the form of a hollow cylinder,[5] and the red pigment inside was determined to be hemoglobin.[4] This hemoglobin, generally as oxyhemoglobin, is densely concentrated in crystalline form.[5] The cylinder was confirmed to be an ocellus, a form of eye.[6] Hemoglobin takes the place of melanin as the shadowing pigment of the eye, and plays a role in the nematode's sensation of light, a function not observed in any other organism.[5] Some other nematodes have eye structures, but that of the female M. nigrescens is unique. It has a single eye, where other nematodes have two. Only the female has an eye, where eyes are present in both sexes of other eyed nematodes. Its eye takes up the entire front end of the body, the cylinder filling the entire body cavity. It has a cornea, or a structure that acts as a cornea. All other eyed nematodes have melanin as the shadowing pigment. The unique eye of M. nigrescens probably evolved independently among nematode taxa.[7]
+
+This and other Mermis species are sometimes mistaken for horsehair worms, but the latter are longer and uniformly dark in color, and their bodies do not taper.
+|
+ref
+txt https://en.wikipedia.org/wiki/Mermis_nigrescens
+img https://en.wikipedia.org/wiki/Mermis_nigrescens
+vid null
+|
+参考书目
+null
