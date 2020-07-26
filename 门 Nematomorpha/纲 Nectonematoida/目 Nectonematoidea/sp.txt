@@ -1,0 +1,12 @@
+Nectonema zealandica  (Poinar and Brockerhoff, 2001)
+中文名：无
+|
+A new species of marine hairworm, Nectonema zealandica (Nematomorpha: Nectonematoidea), is described from the purple rock crab Hemigrapsus edwardsi Hilgendorf from the South Island, New Zealand. This is the first record of Nectonema in the South Pacific Ocean and the southernmost locality for the genus. The description is based on juveniles and pre-adults taken from crabs. The new species is characterised by its stomal structure, presence of four cephalic papillae, mesenchyme arranged in eight lobes in pre-adults, insertion of muscle layer increasing body diameter at the septum and translucent anterior chamber.
+|
+ref
+txt https://www.researchgate.net/publication/11763752_Nectonema_zealandica_n_sp_Nematomorpha_Nectonematoidea_parasitising_the_purple_rock_crab_Hemigrapsus_edwardsi_Brachyura_Decapoda_in_New_Zealand_with_notes_on_the_prevalence_of_infection_and_host_defen
+img https://www.researchgate.net/figure/Nectonema-zealandica-n-sp-in-the-body-cavity-hepatopancreas-of-Hemigrapsus-edwardsi_fig1_11763752
+vid null
+|
+参考书目
+null
