@@ -1,0 +1,20 @@
+Aphelenchus avenae (Bastian, 1865)
+中文名：无
+|
+Aphelenchus avenae is a mycophagous nematode capable of feeding on plant tissue in culture.[1][2][3][4]
+
+Feeding: Hyphal feeder; Aphelenchus avenae feeds on a variety of fungi,[5] but is not known to feed on higher plants.[6]
+
+Hosts: Fungi
+
+Life Cycle: Males seem fairly common in some populations, less frequent in others; Capable of withstanding dry conditions through anhydrobiosis. Used as a model system for studying anhydrobiosis.
+
+Management: Numbers are increased by addition of complex organic materials to soil to enhance fungal decomposition.
+|
+ref
+txt https://en.wikipedia.org/wiki/Aphelenchus_avenae
+img https://www.wur.nl/en/Research-Results/Chair-groups/Plant-Sciences/Laboratory-of-Nematology/Nematode-in-the-picture/Nematode-Pictures/Aphelenchus-avenae.htm
+vid null
+|
+参考书目
+null
