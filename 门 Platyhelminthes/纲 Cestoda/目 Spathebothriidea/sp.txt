@@ -5,7 +5,7 @@ The species is characterized by a small scolex, rounded anteriorly; presence of 
 |
 ref
 txt https://www.semanticscholar.org/paper/Spathebothrium-vivekanandai-sp.n.-(Platyhelminthes%3A-Banerjee-Manna/e9c7d9b07791dea0b64aa71b4278cf008a9fecbc
-img https://www.semanticscholar.org/paper/Spathebothrium-vivekanandai-sp.n.-(Platyhelminthes%3A-Banerjee-Manna/e9c7d9b07791dea0b64aa71b4278cf008a9fecbc
+img https://folia.paru.cas.cz/getrevsrc.php?identification=public&mag=fol&raid=40&type=fin
 vid null
 |
 参考书目
