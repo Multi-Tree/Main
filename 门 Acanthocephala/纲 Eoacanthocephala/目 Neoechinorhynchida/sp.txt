@@ -1,0 +1,12 @@
+Neoechinorhynchus (Neoechinorhynchus) mexicoensis (Pinacho-Pinacho, Sereno-Uribe & García-Varela, 2014)
+中文名：无
+|
+The new species is mainly distinguished from the other 33 described species of Neoechinorhynchus from the Americas associated with freshwater, marine and brackish fishes by having smaller middle and posterior hooks and possessing a small proboscis with three rows of six hooks each, apical hooks longer than other hooks and extending to the same level as the posterior hooks, 1 giant nucleus in the ventral body wall and females with eggs longer than other congeneric species. Sequences of the internal transcribed spacer (ITS) and the large subunit (LSU) of ribosomal DNA including the domain D2 + D3 were used independently to corroborate the morphological distinction among the new species and other congeneric species associated with freshwater and brackish water fish from Mexico. The genetic divergence estimated among congeneric species ranged from 7.34 to 44% for ITS and from 1.65 to 32.9% for LSU. Maximum likelihood and Bayesian inference analyses with each dataset showed that the 25 specimens analyzed from 5 localities of the coast of the Gulf of Mexico parasitizing D. maculatus represent an independent clade with strong bootstrap support and posterior probabilities.
+|
+ref
+txt https://www.sciencedirect.com/science/article/abs/pii/S1383576914000865?via%3Dihub
+img https://www.semanticscholar.org/topic/Neoechinorhynchus-mexicoensis/6116980
+vid null
+|
+参考书目
+null
