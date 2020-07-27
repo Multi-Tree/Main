@@ -1,0 +1,14 @@
+Priapulus caudatus (Lamarck, 1816)
+中文名：尾曳鳃虫
+|
+Description:A cylindrical unsegmented worm, P. caudatus grows to a length of 15 cm (6 in). The body is divided into two distinct regions; at the front is the introvert, ridged longitudinally and heavily armed with rows of spines. The mouth is at its tip and is surrounded by seven rows, each with five teeth. The introvert is retractable into the trunk, a longer and broader region with transverse, ring-like markings. It is terminated on the ventral side by a much-branched, tail-like appendage. The front of the tail is sometimes obscured by a swelling of the trunk. The whole animal is a pinkish-brown colour.
+
+Ecology:P. caudatus has been little studied and its ecology is poorly known.[5] It is believed to be carnivorous while other closely related species are thought to be deposit feeders and detritivores.[6] The sexes are separate and fertilisation is external. Eggs are small and yolky, and cleavage is holoblastic, radial and equal. The larvae live on the seabed and have an introvert, and a trunk enclosed by a thick cuticle into which the introvert can be retracted.
+|
+ref
+txt https://en.wikipedia.org/wiki/Priapulus_caudatus
+img http://www.marinespecies.org/aphia.php?p=taxdetails&id=101160
+vid null
+|
+参考书目
+无
