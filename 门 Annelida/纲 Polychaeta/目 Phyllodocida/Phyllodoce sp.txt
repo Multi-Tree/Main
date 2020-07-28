@@ -5,7 +5,7 @@
  |
  ref
  txt https://en.wikipedia.org/wiki/Phyllodoce_(annelid)
- img https://en.wikipedia.org/wiki/Phyllodoce_(annelid)
+ img https://www.alamy.com/stock-photo-paddleworm-phyllodoce-laminosa-phyllodocidae-exposed-under-a-stone-23888115.html
  vid null
  |
  参考书目：《中国动物志：环节动物门.多毛纲.叶须虫目》【中】吴宝玲
