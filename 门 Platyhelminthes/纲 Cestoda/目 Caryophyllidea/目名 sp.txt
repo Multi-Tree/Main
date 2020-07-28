@@ -1,0 +1,16 @@
+名称 ryophyllidea
+中文名 核叶目
+|
+The Caryophyllideans are a group of tapeworms that infect fish and annelids (segmented worms) with a simple scolex or "head." 
+Worms in this order only have one proglottid, which is believed to be the primitive condition for tapeworms. 
+They are generally less than 10 centimetres long. 
+Caryophillideans represent a unique type of tapeworm, such that they possess a monzoic, unsegmented, body, with only a single set of reproductive organs. 
+For reproduction, this group of tapeworms undergo parthenogenesis, due to lack of functional sperm.
+In the Caryophyllidean life cycle, adults live in fish, who pass the tapeworm eggs in their feces. 
+Annelids eat the eggs, where they hatch into oncosphere larvae that move through intestinal wall and become procercoid larvae in the body cavity. 
+When the annelid is eaten by a fish, the tapeworm matures.
+Catfish, suckers, and minnows are among the fishes that can serve as definitive hosts. 
+|
+https://en.wikipedia.org/wiki/Caryophyllidea
+|
+null
