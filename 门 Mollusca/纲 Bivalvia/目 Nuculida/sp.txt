@@ -1,0 +1,14 @@
+Nucula nucleus (Linnaeus, 1758)
+中文名：无
+|
+size: To 12mm. Shell Structure: Solid. Equivalve: Equivalve. Equilateral: Inequilateral, the beaks lie approximately 25-30% of dorsal margin length from posterior. Tumidity: Moderately tumid. Outline: Rounded triangular: height of shell approximately 85% of length; antero-dorsal margin long, rounded, concave and sloping; postero-dorsal margin slightly concave to almost straight, steeply sloping with angled junction at posterior margin; anterior and posterior margins narrowly rounded; ventral margin more deeply rounded; escutcheon heart-shaped, slightly projecting, generally with defined edges in older individuals; lunule long, lanceolate with poorly defined edges.
+
+Sculpture: Primary sculpture of numerous very fine, closely-spaced, radial riblets, most visible near the outer margin. Some comarginal lines and growth stops. Older individuals have a decussate surface near the outer margin. Margin: Inner margin crenulate in correspondence to riblets. Ligament: Internal, opisthodetic, with the ligament seated in a well-developed, rounded resilifer. A thin, barely visible, external ligament lies anterior to the beaks. Hinge: Taxodont: Broad and continuous hinge plate with a well-developed triangular shaped resilifer. Teeth long and pointed, usually 11-14 posterior and 16-25 anterior. The teeth extend across the top of the resilifer. Pallial Musculature: Pallial line continuous with no pallial sinus. Adductor muscle scars oval, more or less equal in size and indistinct. Periostracum: Smooth, matt surface, grey-green to olive coloured, very occasionally with orange or purple-grey coloured rays. Shells often coated with deposits of manganese, particularly around the posterior end. Colour: White. Inside of shell nacreous.
+|
+ref
+txt https://naturalhistory.museumwales.ac.uk/britishbivalves/browserecord.php?-recid=280
+img https://naturalhistory.museumwales.ac.uk/britishbivalves/browserecord.php?-recid=280
+vid null
+|
+参考书目
+null
