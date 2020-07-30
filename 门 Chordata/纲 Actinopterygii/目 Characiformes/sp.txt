@@ -1,0 +1,20 @@
+Paracheirodon axelrodi (Schultz, 1956)
+中文名：阿氏霓虹脂鲤
+|
+The cardinal tetra (Paracheirodon axelrodi) is a freshwater fish of the characin family (family Characidae) of order Characiformes. It is native to the upper Orinoco and Negro Rivers in South America. Growing to about 3 cm (1.2 in) total length, the cardinal tetra has the striking iridescent blue line characteristic of the genus Paracheirodon laterally bisecting the fish, with the body below this line being vivid red in color, hence the name "cardinal tetra". The cardinal tetra's appearance is similar to that of the closely related neon tetra, with which it is often confused; the neon's red coloration extends only about halfway to the nose, and the neon's blue stripe is a less vibrant blue.
+
+The cardinal tetra has bright red ventral parts and an iridescent blue line that runs horizontally down the length of its body. The characteristic iridescence of this and related fishes, such as the neon tetra, is a structural color, caused by refraction of light within guanine crystals that develop within special cells called iridocytes in the subcutaneous layer. The exact shade of blue seen will depend on the viewing angle of the aquarist relative to the fish - if the aquarist changes viewpoint so as to look at the fish more from below, the colour will change hue, becoming more deeply sapphire blue and even indigo. Change the viewpoint to one above the fishes, however, and the color becomes more greenish. Cardinal tetras appear to grow larger in captivity than they do in the wild. They have a large stomach and small gut.
+
+The cardinal tetra forages in areas of slow-moving shallow water. It is predominantly predatory, generally feeding on tiny animals they find on underwater plants, roots and leaf litter. Creatures commonly eaten include the larvae of chironomid midges and microcrustaceans such as water fleas (Cladocera) of the families Moinidae, Macrotrichidae and Daphniidae, and Copepods of the family Harpacticidae. Other organisms eaten include other fly larvae, insect eggs, rotifers and testate amoebae.
+
+The cardinal tetra, in the wild, swims upstream in large numbers to parts of its native river habitat completely enclosed above by rainforest canopy. Such waters are subject to heavy shading by the rainforest trees, and virtually no sunlight reaches them. Here, the fishes spawn in large aggregations.
+
+The fish might also be effectively an annual species with a lifespan of just a single year in nature. It lives for several years in captivity.
+|
+ref
+txt https://en.wikipedia.org/wiki/Cardinal_tetra
+img https://www.seriouslyfish.com/species/paracheirodon-axelrodi/
+vid https://www.youtube.com/watch?v=r14XvxZ-fjs
+|
+publication
+null
