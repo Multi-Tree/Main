@@ -1,0 +1,16 @@
+Pentamerus oblongus (de Sowerby, 1839)
+中文名：无
+|
+Shell medium to very large in size, with average length of 48 mm, width 45 mm, and thickness 25 mm (Text-fig. 18), and largest specimen attaining length of 98 mm, width 61 mm, and thickness 48 mm (Pl. 8, figs. 1-5); commonly smooth, or faintly plicate in small number of specimens, elongate, strongly and almost equally biconvex, prominently trilobate with median lobe strongly protruding at the anterior margin; maximum convexity reached at about mid-length of shell. Hingeline slightly curved, attaining about 2/3 of shell width. Anterior commissure approximately recti marginate or broadly wavy due to trilobation.
+
+Ventral umbo high, strongly convex, relatively narrow, extending 4-6 mm above hingeline in specimens of average size, forrning apical angles of 70-85°; beak strongly arched and appressed onto dorsal umbo; palintrope smoothly curved; delthyrium covered apically by thin, concave pseudodeltidium; ventral fold or sulcus absent, but median lobe becoming strongly elevated, bordered by pair of grooves, to resemble fold in some large shells. Dorsal umbo moderately convex, with small beak buried in delthyrial cavity; dorsal fold or sulcus absent, but also bearing prominently elevated median lobe in some specimens.
+
+Spondylium long, extremely narrow and deep (Text-fig. 19), extending for 1/2-2/3 of shell length; floor of spondylium weakly striated anteriorly, shown as saw structures in cross-sections (Pl. 11, fig. 6). Median septum about as long as spondylium, fonned by thin median lamellar layer reinforced on both sides by thick prismatic layers; microstructures of median septum discontinuous from, and wedging into, those of valve floor. Outer and inner plates thin, long, subparallel to median plane, extending for 1/2-2/3 of shell length. Brachial processes ribbon-like, as long as or slightly longer than spondy1ium.
+|
+ref
+txt https://paleobiodb.org/classic/checkTaxonInfo?taxon_no=308935&is_real_user=1
+img https://zh.wikipedia.org/wiki/%E4%BA%94%E6%88%BF%E8%B2%9D%E5%B1%AC
+vid null
+|
+publication
+null
