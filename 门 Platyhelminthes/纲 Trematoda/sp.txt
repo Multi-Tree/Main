@@ -1,0 +1,16 @@
+名称 Stichocotyle nephropis
+中文名null
+|
+Stichocotyle is a monospecific genus of trematodes, in the monospecific family Stichocotylidae, which is itself in the monotypic order Stichocotylida.
+It comprises the single species Stichocotyle nephropis, which is an internal parasite of elasmobranch fishes. 
+It was originally described from the Norway lobster, Nephrops norvegicus, by J. T. Cunningham in 1884. 
+This flatworm is distinguished by a single ventral row of well separated suckers.
+Stichocotyle has not been seen since 1986, and it is possible that it is extinct.
+Like many parasites, it relied on multiple hosts, and its disappearance is hypothesized to be associated with declines in some of these hosts.
+The thornback ray Raja clavata and the barndoor skate Dipturus laevis were hosts for the adult form, and have declined because they are killed as bycatch in fisheries. 
+The thornback ray is listed as "Near Threatened," and the barndoor skate is globally listed as "Endangered" on the IUCN Red List. 
+|
+txt https://en.wikipedia.org/wiki/Stichocotyle
+图片 http://www.zoofirma.ru/knigi/trematody/11302-stichocotyle-nephropis-cunningham-1884.html
+|
+null
