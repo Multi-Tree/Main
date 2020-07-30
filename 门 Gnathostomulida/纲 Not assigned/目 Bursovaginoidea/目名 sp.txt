@@ -1,0 +1,12 @@
+名称 Bursovaginoidea
+中文名 颚胃动物门
+|
+Bursovaginoids are rather small, ranging from a half of a millimeter to a full millimeter in length.
+Many species in the order Bursovaginoidea have a narrow neck, making their head stand out more than other bursovagionoids and all filospermoids.
+Bursovaginoids, unlike filospermoids, have paired sensory organs and a penis. Also, all species in Bursovaginoidea have a sperm-storage organ called a bursa. 
+In suborder Scleroperalia, the bursa is cuticular, while in Conophoralia it is not. Species in order Conophoralia tend to have larger sperm than those in Sceloperalia.
+|
+txt https://en.wikipedia.org/wiki/Bursovaginoidea
+图片  https://eol.org/pages/8749
+|
+null
