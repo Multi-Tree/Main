@@ -1,0 +1,20 @@
+Palaeoisopus problematicus (Broili, 1928)
+中文名：无
+|
+Palaeoisopus is a monotypic genus of fossil pycnogonid (sea spider), known only by one species, Palaeoisopus problematicus, discovered from the Lower Devonian Hunsrück Slate of Germany. It have several characters unusual for a pycnogonid, such as swimming legs with alternating size, medially-arranged eyes, and most significantly, a long, segmented abdomen, which were highly reduced in modern counterparts.
+
+Palaeoisopus is a large sea spider, with a body length (excluding proboscis and chelifores) of at least 12.5 cm and leg spans of about 32 cm, comparable to those of a modern Colossendeis (giant sea spider). The margins of each of its body parts were covered by tubercles, the cephalon (head section that bore eyes, proboscis, chelifores, palps, ovigers and 1st leg pair) and 3 trunk somites (section that bore the remaining leg pairs) are well-defined by ring-like segmentation. The abdomen apparently compose of 4 abdominal somites and a styliform telson, but based on the medial position of anus (which, in telson-bearing chelicerates, always located at the ventral boundary of abdomen and telson), the latter was also suggest to be a fusion of 5th abdominal somite and the original telson.
+
+Medial to the anterodorsal margin of cephalon was an eye-bearing ocular tubercle. Unlike the paired 4-eyed arrangement of most pycnogonids, it compose of a pair of large eyes and 2 smaller eyes that arranged anteroposteriorly in a midline. The anteriormost appendages were a pair of robust, pincer-like chelifores, which compose of 5 podomeres (3 for scape and 2 for pincer) instead of 3 or 4 (1 or 2 for scape and 2 for pincer) like those of the other pycnogonids. Below the chelifores was a cylinderal proboscis that always tucked underneath the cephalon, making it almost invisible in dorsal view. The palps and ovigers have similar morphology, the former terminated with a subchelate structures and the latter was apparently absent in some specimens, which may represent sexual dimorphism as seen in some modern pycnogonid taxa such as Pycnogonidae and Phoxichilidiidae (female lacking ovigers). Each of the leg base was surrounded by flexible, ring-like structure. Among the 4 leg pairs the first one is significantly elongated, and its detail morphology slightly differ from the posterior counterparts as well (e.g. shorter basal segments, different setae arrangement, 4 flatten distal podomeres instead of 5).
+
+The large eyes, robust chelifores and oar-like legs suggest that Paleoisopus was a nektonic (swimming) visual predators, with associated stalked crinoid (sea lily) as a possible prey item.
+
+While some analysis placing Palaeoisopus within a derived position, most studies suggest that Paleosiopus is a basal sea spider, as the well-developed abdomen most likely represent a plesiomorphic condition of total-group Pycnogonida.
+|
+ref
+txt https://en.wikipedia.org/wiki/Palaeoisopus
+img https://en.wikipedia.org/wiki/Palaeoisopus
+vid null
+|
+publication
+null
