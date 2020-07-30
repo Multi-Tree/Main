@@ -1,0 +1,10 @@
+属名 Dactylogyrus
+中文名 null
+|
+Dactylogyrus (common name: Gill Fluke) are oviparous (egg-laying) monogeneans trematodes that have two pairs of anchors. 
+These anchors can be used to latch onto the gills of a host, particularly freshwater fish such as carp. 
+In heavily infected fish, Dactylogyrus can also be found on the buccal cavity, and at times fins and skin of the freshwater fish. 
+|
+txt 图片 https://en.wikipedia.org/wiki/Dactylogyrus
+|
+null
