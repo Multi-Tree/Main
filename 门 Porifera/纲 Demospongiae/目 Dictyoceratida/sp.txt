@@ -1,0 +1,12 @@
+Ircinia campana (Lamarck, 1814)
+	中文名：无
+	|
+  null
+	|
+	ref
+	txt http://www.marinespecies.org/porifera/aphia.php?p=taxdetails&id=165009#sources
+	img http://www.marinespecies.org/porifera/aphia.php?p=taxdetails&id=165009#sources
+	vid null
+	|
+	publication
+	null
