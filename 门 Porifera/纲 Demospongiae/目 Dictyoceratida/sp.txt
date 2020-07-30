@@ -1,11 +1,21 @@
 Ircinia campana (Lamarck, 1814)
 	中文名：无
 	|
-  null
+	Description:
+	Cup-shaped sponges, although asymmetrical specimens with a lower and a higher cup-wall are common. Sponge up to 50 cm high and 40 cm in diameter. Thickness of the cup 		wall is 0.5-3 cm and the consistency is fleshy but tough. Surface strongly conulose. The conules are about 4 mm high and mostly 5-6 mm apart (I. campana-close up). 		Conules on the inside of the cup distinctly lower and closer together than those on the outside. Oscules only on the inside; 4-10 mm in diameter.
+
+	Color:
+	Reddish brown.
+
+	Habitat:
+	Inhabit shallow to mid-range reefs. Prefer brightly lit areas.
+
+	Distribution:
+	From Florida to Brazil.
 	|
 	ref
-	txt http://www.marinespecies.org/porifera/aphia.php?p=taxdetails&id=165009#sources
-	img http://www.marinespecies.org/porifera/aphia.php?p=taxdetails&id=165009#sources
+	txt http://species-identification.org/species.php?species_group=caribbean_diving_guide&id=454
+	img https://spongeguide.uncw.edu/speciesinfo.php?species=229
 	vid null
 	|
 	publication
