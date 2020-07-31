@@ -1,0 +1,12 @@
+Bothriocephalus scorpii (Müller, 1776)
+中文名：无
+|
+Bothriocephalus scorpii is a species of flatworms in the family Bothriocephalidae. It is a parasite. Individuals can grow to 950 mm. Bothriocephalus scorpii is a hermaphrodite.
+|
+ref
+txt https://eol.org/pages/46486242
+img null
+vid null
+|
+publication
+Jones, A. (1975). The morphology of Bothriocephalus scorpii (Müller) (Pseudophyllidea, Bothriocephalidae) from littoral fishes in Britain. Journal of Helminthology, 49(4), 251-261. doi:10.1017/S0022149X00026250
