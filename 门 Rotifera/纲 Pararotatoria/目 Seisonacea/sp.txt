@@ -1,0 +1,12 @@
+Seison nebaliae (Grube, 1861)
+中文名：无
+|
+Seison nebaliae lives only as epibiont on leptostracan crustaceans of genus Nebalia. This species is unable to swim and can be regarded as a sessile epibiont which adheres firmly to its host. It maintains neck and foot withdrawn into the trunk while the host is moving; on the contrary all the body appears fully extended when the host is still. It can be hypothesized that the transfer to a new host one can occur or from Nebalia mother to offspring, when the juveniles are in the brood chamber, or between adult crustaceans when they are crowded in hiding places during the day, being Nebalia species nocturnal animals. However, it has never been reported how Seison transfers between hosts or during the crustacean moults. The stomach content of S. nebaliae consists of detritus and algae therefore the relationship with its host may be phoretic and/or commensal. Seison nebaliae is reported to occur, on the same host, together with the Paraseison annulatus. However the former lives on the pleopods while the latter attaches to pereiopods, to the edges of the carapaces and, occasionally, to the antennae and abdomen.
+|
+ref
+txt https://eol.org/pages/1062072/articles
+img https://eol.org/media/9459220
+vid null
+|
+publication
+null
