@@ -1,0 +1,20 @@
+Gelyella droguei (Rouch & Lescher-Moutoué, 1977)
+中文名：无
+|
+Gelyella is a genus of freshwater copepods which are "surrounded by mystery". They live in groundwater in karstic areas of southern France and western Switzerland. The two species are the only members of the family Gelyellidae and, although previously placed in the order Harpacticoida, a new order, Gelyelloida, was erected for this family alone.
+
+Gelyella shows some paedomorphosis, in which animals reach sexual maturity while still partly resembling juveniles. The adults are 300–400 micrometres (0.012–0.016 in) long with a nearly cylindrical body that tapers towards the rear. There are eleven body segments, the last of which is the length of the previous two segments combined.
+
+The first species of Gelyella was described in 1977 from material collected at Saint-Gély-du-Fesc, Hérault, France and given the name Gelyella droguei.
+
+A second species was later collected from the Gorges de l'Areuse in the Swiss Jura, and named Gelyella monardi to mark the centenary of the birth of the Swiss naturalist Albert Monard.
+
+It is thought that the two species may have begun to diverge from a marine common ancestor following the changes in coastline during the Miocene. During the Miocene, the Mediterranean Sea reached parts of Switzerland, but this was followed by the Messinian salinity crisis, in which the sea almost dried up, leaving salt lakes in the Mediterranean Basin.
+|
+ref
+txt https://en.wikipedia.org/wiki/Gelyella
+img https://www.semanticscholar.org/paper/Gelyelloida%2C-a-new-order-of-stygobiont-copepods-Huys/1a661db42e2ad3391c70a4db4a8bb278358a64f0
+vid null
+|
+publication
+https://www.semanticscholar.org/paper/Gelyelloida%2C-a-new-order-of-stygobiont-copepods-Huys/1a661db42e2ad3391c70a4db4a8bb278358a64f0
