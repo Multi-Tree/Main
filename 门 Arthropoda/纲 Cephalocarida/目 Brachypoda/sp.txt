@@ -1,0 +1,18 @@
+Hutchinsoniella macracantha (Sanders, 1955)
+中文名：无
+|
+Hutchinsoniella macracantha is a species of crustacean known as a horseshoe shrimp. It is the only species in the genus Hutchinsoniella and was first described in 1955 by Howard L. Sanders, having been discovered in Long Island Sound;[3] they were the first example of a new class of crustacean that was given the name Cephalocarida.
+
+Adult cephalocaridans are between 2 and 3.7 mm (0.08 and 0.15 in) in length. The body is divided into a cephalon, a segmented thorax and a segmented abdomen, with a cephalic shield covering the cephalon. There are no eyes and the body is flexible and translucent. The thorax has a pair of limbs on each segment while the abdomen is limbless, apart from the telson with its slender caudal filaments. The body and limbs are ornamented with various setae and spines.
+
+H. macracantha feeds on flocculent detritus, organic particles which have settled on the seabed in hollows and other places with little water movement. These particles are wafted by means of the thoracic limbs into a ventral groove which leads to the mouth.
+
+Development is direct in this species, there being at least eighteen instar stages, but no pelagic stage, so dispersal is limited. After each moult in the early stages, two additional body segments are added. Initially the larva has two pairs of antennae and a pair of mandibles with palps. The palps are lost by instar 10, and the maxillae and thoracic limbs have developed over a number of moults by this stage, while the second antennae and mandible gradually become rudimentary. When the larva has gained a full complement of limbs it can be considered to be adult. In Long Island Sound, breeding takes place from June to the end of September, during which time three broods, each of two embryos is produced.
+|
+ref
+txt https://en.wikipedia.org/wiki/Hutchinsoniella
+img https://commons.wikimedia.org/wiki/Category:Hutchinsoniella_macracantha
+vid null
+|
+publication
+null
