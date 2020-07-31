@@ -1,0 +1,16 @@
+Anodonta cygnea (Linnaeus, 1758)
+中文名：无
+|
+The swan mussel, Anodonta cygnea, is a large species of freshwater mussel, an aquatic bivalve mollusc in the family Unionidae, the river mussels.
+
+Shell yellowish or greenish brown, thin, not very solid, ligament long and narrow, without teeth, lower side of frontal interior margin not thickened. Embryonal shell finely striated along the growth lines, the lines reach the margin.
+Differs from A. anatina in its larger shell with dorsal and ventral margins being straighter and more parallel, the growth lines of the embryonal shell are finer and less undulated, and reach the margin.
+Animal like A. anatina, yellowish, greenish or light reddish, mantle large and brownish yellow, gills greyish and like gaze, foot large and darker than the rest of the body, opening for water supply short with long papillae.
+|
+ref
+txt https://en.wikipedia.org/wiki/Swan_mussel; http://www.animalbase.uni-goettingen.de/zooweb/servlet/AnimalBase/home/species?id=2117
+img http://www.animalbase.uni-goettingen.de/zooweb/servlet/AnimalBase/list/thumbnails?taxon_id=4162&include_synonyms=false
+vid null
+|
+publication
+null
