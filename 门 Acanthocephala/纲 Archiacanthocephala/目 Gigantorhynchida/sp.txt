@@ -1,1 +1,16 @@
+Gigantorhynchus echinodiscus (Diesing, 1851)
+中文名：无
+|
+G. echinodiscus is a tropical parasite of anteaters including the giant anteater (Myrmecophaga tridactyla), the southern tamandua (Tamandua tetradactyla) and the silky anteater (Cyclopes didactylus). It has been found in Brazil, Venezuela, Panama, and Trinidad Island. Intermediate hosts include two species of termites from Brazil (Labiotermes emersoni and Orthognathotermes heberi). It is the first species to be described in the genus Gigantorhynchus and is the type species.
 
+Morphological traits used to distinguish the species include a cylindrical proboscis with a crown having eighteen large hooks followed by 21 to 23 small rootless spines arranged in two longitudinal rows. The first row has six hooks measuring between 0.16 and 0.23 mm from the tip of the hook to the root. The second row has twelve hooks in pairs which are smaller than first row measuring between 0.18 and 0.19 mm from the tip of the hook to the root. The crown is separated from numerous small, rootless spines by a short space without hooks. Twenty-one to twenty-three small, rootless spines are arranged in longitudinal rows 0.05 to 0.08 mm long. The lemnisci reach the middle of the trunk and are sometimes bent back on themselves. Other traits include a lateral papilla at the base of the proboscis, a small region (2.24 to 3.21 mm long) after the proboscis with no segmentation, a ringed with no complete segmentation, large testes, eight cement glands in pairs occupying a region measuring between 0.98 and 2.13 mm long and between 0.45 and 0.76  mm wide, and a non-segmented region in the posterior end of the body.
+
+The male has two ellipsoid testes that are narrow and in tandem. The posterior end after the anterior testes without a segmentation region measures between 5.45 and 8.53 mm. In the female, the gonopore is subterminal and the vagina has a sinuous lateral region shaped like a guitar. The genital pore including the vagina, uterus, and uterine bell is between 0.69 and 0.97 mm long. The eggs contain three membranes.
+|
+ref
+txt https://en.wikipedia.org/wiki/Gigantorhynchus
+img https://www.sciencedirect.com/science/article/pii/S2213224419300665
+vid null
+|
+publication
+https://www.sciencedirect.com/science/article/pii/S2213224419300665
