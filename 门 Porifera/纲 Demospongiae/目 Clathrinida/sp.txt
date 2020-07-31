@@ -1,0 +1,17 @@
+Clathrina clathrus (Schmidt, 1864)
+中文名：无
+|
+Species of Clathrina have a tubular organization as all species of the family Clathrinidae, with the cormus composed of anastomosed tubes. The skeleton contains spicules in the form of triactines and/or tetractines, sometimes with diactines, tripods and tetrapods as well. The choanoderm is usually flat, never forming folds when the sponge is extended.
+Clathrina clathrus is a species of calcareous sponge belonging to the family Clathrinidae.
+
+This yellow (occasionally white) sponge, up to 10 cm in diameter, usually appears cushion-shaped at a distance (its close relative Clathrina coriacea is normally flatter in appearance). Close-up the sponge can be seen to consist of a tangled mass of tubes (these tubes are thicker and less tightly knit than in C. coriacea and there is no osculum as found in that species). Like C. coriacea, the spicules are exclusively three-pointed triactines.
+
+This is a shallow-water species found in the Mediterranean and on Atlantic coasts of Europe as far north as the British Isles.
+|
+ref
+txt https://en.wikipedia.org/wiki/Clathrina, https://en.wikipedia.org/wiki/Clathrina_clathrus
+img https://en.wikipedia.org/wiki/Clathrina
+vid null
+|
+publication
+null
