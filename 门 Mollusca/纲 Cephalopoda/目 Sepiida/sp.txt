@@ -1,0 +1,20 @@
+Sepia officinalis (Linnaeus, 1758)
+中文名：无
+|
+The common cuttlefish or European common cuttlefish (Sepia officinalis) is one of the largest and best-known cuttlefish species. They are a migratory species that spend the summer and spring inshore for spawning and then move to depths of 100 to 200m during autumn and winter. They grow to 49 cm in mantle length (ML) and 4 kg in weight. Animals from subtropical seas are smaller and rarely exceed 30 cm in ML.
+
+The common cuttlefish is native to at least the Mediterranean Sea, North Sea, and Baltic Sea, although subspecies have been proposed as far south as South Africa. It lives on sand and mud seabeds and it can tolerate brackish water conditions.
+
+The common cuttlefish is one of the largest species of cuttlefish with their mantles (does not include their head and arms) reaching upwards of 45 cm. The mantle houses the reproductive and digestive tracts of the cuttlefish and is also home to an internal shell called the cuttlebone. The common cuttlefish has two highly developed eyes, eight arms which are located around the mouth and are used to hold and move prey, two tentacles which are used to quickly capture prey, and a radula which is used to tear and rip apart any prey they have captured. Cuttlefish are well known for their unmatched camouflaging abilities which are possible due to light scattering leucophores, pigmented chromatophore organs, and structurally reflecting iridophores all located in their skin. These specialized characteristics give them the ability to not only change their colour, but also change the texture appearance of their skin and all of this is done despite them being colour-blind. Their camouflaging abilities are categorized into four main types including mottle, stipple, uniform, and disruptive. These complex camouflage abilities are not just present in adult cuttlefish, but cuttlefish juveniles also have these complicated characteristics, which allows them to be able to camouflage from a young age.
+
+During the day, most cuttlefish can be found buried below the substrate and fairly inactive. At night however, they are actively searching for prey and can ambush their prey from under the substrate. Cuttlefish are carnivorous and eat a variety of organisms including crustaceans (crabs and shrimp), small fish, molluscs (clams and snails), and sometimes other cuttlefish which is more commonly seen when the abundance of other prey is low.
+
+Cuttlefish reach sexual maturity between 14 and 18 months of age. During breeding season, which occurs during spring and summer in shallow waters, male cuttlefish will display a black and white zebra pattern on their mantle to attract females and females will display a uniform grey colour to indicate they are ready to mate. Cuttlefish are internal fertilizers and the number of fertilized eggs can range from 100 to 1000. After the eggs are fertilized, they will remain in the oviduct of the female for anywhere between 30 and 90 days before they are laid. The eggs attach to seaweed, shells, or other substrates to prevent them from drifting away and have ink deposits on them to aid in camouflage.
+|
+ref
+txt https://en.wikipedia.org/wiki/Common_cuttlefish
+img https://en.wikipedia.org/wiki/Common_cuttlefish
+vid https://en.wikipedia.org/wiki/Common_cuttlefish
+|
+publication
+null
