@@ -1,0 +1,18 @@
+Macrodasys caudatus (Remane, 1927)
+中文名：无
+|
+Macrodasys caudatus is a species of microscopic worm-like metazoan in the family Macrodasyidae in the phylum Gastrotricha. It lives in the interstices between particles of sediment on the seabed in shallow water. It is found in the Indian Ocean, the northeastern Atlantic Ocean, the Mediterranean Sea and the North Sea.
+
+The body is worm-shaped with small adhesive tubes (spine-like structures) on the lateral sides. The head is not distinct. The pharyngeal pores are located in mid-pharyngeal region.
+
+Macrodasys caudatus is an aquatic, microscopic worm (body length 0,06-3,0 mm), which can be found in marine waters. It is meiobenthic and lives between the sand grains and particles (interstitial) on the seabed. Macrodasys caudatus is acoelomate and swallows its food by powerful sucking action of the muscular pharynx. It is a detritivore and its diet consists of small protozoans, microalgae and bacteria. In turn it is preyed upon by small macrofauna and turbellarians.
+
+In year 2013, 310 species of the order Macrodasyida has been described, of which two are not marine species. Although Gastrotricha is a diverse phylum with high abundance, the phylogenetic relations are still unclear. Recent phylogenetic studies based on gene 18S ribosomalt RNA and expressed sequence tag (EST), indicate that Gastrotricha is a member of platyzoa.
+|
+ref
+txt https://en.wikipedia.org/wiki/Macrodasys_caudatus
+img https://en.wikipedia.org/wiki/Macrodasys_caudatus
+vid null
+|
+publication
+null
