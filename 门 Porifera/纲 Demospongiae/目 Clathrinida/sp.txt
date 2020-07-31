@@ -9,7 +9,7 @@ This yellow (occasionally white) sponge, up to 10 cm in diameter, usually appear
 This is a shallow-water species found in the Mediterranean and on Atlantic coasts of Europe as far north as the British Isles.
 |
 ref
-txt https://en.wikipedia.org/wiki/Clathrina, https://en.wikipedia.org/wiki/Clathrina_clathrus
+txt https://en.wikipedia.org/wiki/Clathrina; https://en.wikipedia.org/wiki/Clathrina_clathrus
 img https://en.wikipedia.org/wiki/Clathrina
 vid null
 |
