@@ -1,0 +1,20 @@
+Carybdea marsupialis (Linnaeus, 1758)
+中文名：无
+|
+Carybdea marsupialis, the sea wasp, is a venomous species of cnidarian, in the small family Carybdeidae within the class Cubozoa.
+
+Carybdea marsupialis is a small transparent jellyfish with a box-shaped bell about 3 cm (1 in) across, at the four lower corners of which are four elongated tentacles up to 30 cm (12 in) long. The bell has a number of small white or yellowish warts with stinging cells, and near the margin, equidistant from the tentacles, are four rhopalia (sensory structures with ocelli). This species can be distinguished from other similar species by the red banding on the tentacles.
+
+Carybdea marsupialis was once considered a widespread species found in warm oceans around the world. Taxonomic reviews have shown that most of these are other species in the genus Carybdea, with the true C. marsupialis essentially restricted to the Mediterranean Sea. It is the only box jellyfish in this sea. It is pelagic and is present in the upper few metres of the sea.
+
+Carybdea marsupialis is a predator and feeds on invertebrates and even small fish which it captures with the nematocysts (stinging cells) in its tentacles, often in shallow waters. It swims by making rapid contractions of the bell and can move at a speed of between 3 to 6 m (10 to 20 ft) per minute. Like other species in its genus it has comparatively sophisticated eyes with lenses. With their help it can detect obstacles such as posts or a ship's rudder and avoid them. It often occurs in small groups. The sting is venomous to humans but some swimmers do not notice any painful sensation. In severe cases, the symptoms can be systemic, including pain at the sting site and elsewhere, paresthesia, hyperesthesia and skin lesions, and may take a few months to fully disappear. Although it is far less dangerous than some box jellyfish species from other parts of the world, it is considered the second-most important stinging jellyfish in the Mediterranean (Pelagia noctiluca being the most important).
+
+The life history of this box jellyfish is complex. The sexes are separate and sexual reproduction takes place with the emission of gametes into the open water. After fertilisation, a planula larva forms which later develops into a cubopolyp with a few tentacles. This can reproduce asexually by budding, the buds soon becoming detached. At first they creep across the substrate with the tentacular region leading. During this mobile stage, pieces may become detached or the cubopolyp may split transversely; these fragments regenerate their missing parts within 72 hours. The resulting polyps then attach themselves to the substrate and grow a full complement of 24 tentacles. About a month later they become detached, the multiple tentacles are reabsorbed and the four tentacles typical of the medusa phase develop.
+|
+ref
+txt https://en.wikipedia.org/wiki/Carybdea_marsupialis
+img https://en.wikipedia.org/wiki/Carybdea_marsupialis
+vid null
+|
+publication
+null
