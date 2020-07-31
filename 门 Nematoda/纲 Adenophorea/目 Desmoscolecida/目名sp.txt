@@ -1,0 +1,15 @@
+名称 Desmoscolecida
+中文名null
+|
+Desmoscolecida is an order of marine nematodes.
+ In a worm of this order, the body tapers towards each end and is marked by a number of well-defined ridges. 
+Their number varies in the different species. The head bears four movable setae, and some of the ridges bear a pair either dorsally or ventrally. 
+Two pigment spots between the fourth and fifth ridges are regarded as eyes. 
+The Desmoscolecida move by looping their bodies like geometrid caterpillars or leeches, as well as by creeping on their setae. 
+The mouth is terminal, and leads into a muscular oesophagus which opens into a straight intestine terminating in an anus, which is said to be dorsal in position. 
+The sexes are distinct. The testis is single, and its duct opens into the intestine and is provided with two chitinous spicules.
+The ovary is also single, opening independently and anterior to the anus. The nervous system is as yet unknown.
+Genera include Desmoscolex, Greeffiella, and Tricoma. 
+|
+txt https://en.wikipedia.org/wiki/Desmoscolecida
+图片 https://www.google.com/url?sa=i&url=https%3A%2F%2Feol.org%2Fpages%2F51066&psig=AOvVaw0EAw47N1qTcljC2gy1M4XG&ust=1596252453869000&source=images&cd=vfe&ved=0CAkQjhxqFwoTCLi4tLrG9uoCFQAAAAAdAAAAABAD
