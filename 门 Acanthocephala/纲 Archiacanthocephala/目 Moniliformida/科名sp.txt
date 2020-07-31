@@ -1,0 +1,17 @@
+名称 Moniliformidae
+中文名 念珠菌科
+|
+Moniliformidae is a family of parasitic spiny-headed (or thorny-headed) worms.
+It is the only family in the Moniliformida order and contains three genera: 
+Australiformis containing a single species, Moniliformis containing eighteen species and Promoniliformis containing a single species. 
+Genetic analysis have determined that the clade is monophyletic despite being distributed globally.
+These worms primarily parasitize mammals, including humans in the case of Moniliformis moniliformis, 
+and occasionally birds by attaching themselves into the intestinal wall using their hook-covered proboscis. The intermediate hosts are mostly Cockroaches.
+The distinguishing features of this order among archiacanthocephalans is the presence of a cylindrical proboscis with long rows of hooks with posteriorly directed roots and 
+proboscis retractor muscles that pierce both the posterior and ventral end or just posterior end of the receptacle. 
+Infestation with Monoliformida species can cause moniliformiasis, an intestinal condition characterized as causing lesions, intestinal distension,
+perforated ulcers, enteritis, gastritis, crypt hypertrophy, goblet cell hyperplasia, and blockages.
+|
+txt https://en.wikipedia.org/wiki/Moniliformidae
+图片 https://en.wikipedia.org/wiki/Moniliformidae
+|null
