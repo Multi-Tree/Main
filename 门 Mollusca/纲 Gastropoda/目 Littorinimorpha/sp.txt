@@ -1,0 +1,36 @@
+Littorina littorea (Linnaeus, 1758)
+中文名：无
+|
+The common periwinkle or winkle (Littorina littorea) is a species of small edible whelk or sea snail, a marine gastropod mollusc that has gills and an operculum, and is classified within the family Littorinidae, the periwinkles.
+
+This is a robust intertidal species with a dark and sometimes banded shell. It is native to the rocky shores of the northeastern, and introduced to the northwestern, Atlantic Ocean.
+
+There is another snail known as the small periwinkle or Melarhaphe neritoides that looks similar, but is smaller.
+
+The shell is broadly ovate, thick, and sharply pointed except when eroded. The shell contains six to seven whorls with some fine threads and wrinkles. The color varies from grayish to gray-brown, often with dark spiral bands. The base of the columella is white. The shell lacks an umbilicus. The white outer lip is sometimes checkered with brown patches. The inside of the shell is chocolate brown.
+
+The width of the shell ranges from 10 to 12 mm at maturity, with an average length of 16–38 mm. Shell height can reach up to 30 mm, 43 mm or 52 mm. The length is measured from the end of the aperture to the apex. The height is measured by placing the shell with the aperture flat on a surface and measuring vertically.
+
+Littorina littorea can be highly variable in phenotype, with several different morphs known. Its phenotypic variations may be indicative of speciation, as opposed to phenotypic plasticity. This is of particular importance to evolutionary biology, as it may represent an opportunity to observe a transitional phase in the evolution of an organism.
+
+Common periwinkles are native to the northeastern coasts of the Atlantic Ocean, including northern Spain, France, England, Wales, Scotland, Ireland, Scandinavia, and Russia.
+
+There have been more than 14,000 observations made available as a dataset at the Global Biodiversity Information Facility - Littorina littorea, which can be explored. More distribution information can also be found at Ocean Biographic Information System - Littorina littorea. The NBN Gateway - Littorina littorea has a distribution map over the UK and Ireland. These datasets may overlap.
+
+The common periwinkle is mainly found on rocky shores in the higher and middle intertidal zone. It sometimes lives in small tide pools. It may also be found in muddy habitats such as estuaries and can reach depths of 180 feet. When exposed to either extreme cold or heat while climbing, a periwinkle will withdraw into its shell and start rolling, which may allow it to fall to the water.
+
+L. littorea is an omnivorous, grazing intertidal gastropod. It is primarily an algae grazer, but it will feed on small invertebrates such as barnacle larvae. It uses its radula to scrape algae from rocks and, in the salt marsh community, pick up algae from cord grass or from the biofilm that covers the surface of mud in estuaries or bays. Macroalgae that are readily consumed include Ulva lactuca and Ulva intestinalis; if provided, blue mussel also seems to be eaten.
+
+The radula is taenioglossate, consisting of seven teeth per row: one middle tooth, flanked on each side by one lateral and two marginal teeth. The radula is used to scrape algae and detritus.
+
+L. littorea is oviparous, reproducing annually with internal fertilization of egg capsules that are then shed directly into the sea, leading to a planktotrophic larval development time of four to seven weeks. Females lay 10,000 to 100,000 eggs contained in a corneous capsule from which pelagic larvae escape and eventually settle to the bottom. This species can breed year round depending on the local climate. Benson suggests that it reaches maturity at 10 mm and normally lives five to ten years. while Moore suggests that maturity is reached in 18 months. Some specimens have lived 20 years.
+
+Female specimens have been observed to be ripe from February until end of May, when most are spawning. Male specimens are mainly ripe from January until the end of May and lose weight after copulation. The young seem to settle primarily from the end of May to the end of June, although other sources indicate earlier settlement.
+|
+ref
+txt https://en.wikipedia.org/wiki/Common_periwinkle
+img https://commons.wikimedia.org/wiki/Category:Littorina_littorea
+vid null
+|
+publication
+null
