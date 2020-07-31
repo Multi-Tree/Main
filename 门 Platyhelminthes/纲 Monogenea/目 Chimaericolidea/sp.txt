@@ -1,0 +1,18 @@
+Chimaericola leptogaster (Leuckart, 1830) Brinkmann, 1942
+中文名：无
+|
+Chimaericola leptogaster is a species of polyopisthocotylean monogenean in the family Chimaericolidae. It is ectoparasitic on the gills of the chimaera Chimaera monstrosa.
+
+Chimaericola leptogaster is a large monogenean, reaching 50 mm in length. The haptor, at the posterior end of the body, bears eight clamps arranged as two rows of four.
+
+The first molecular sequences obtained from Chimaericola leptogaster suggested that the Chimaericolidae were a basal group within the Polyopisthocotylea.
+
+Chimaericola leptogaster was studied with transmission electron microscopy. Several organs have been investigated in details: vaginae, clamps, digestive system,[8] and spermiogenesis and spermatozoa. These ultrastructural results have confirmed the basal position of the species in comparison to marine Polyopisthocotylea.
+|
+ref
+txt https://en.wikipedia.org/wiki/Chimaericola_leptogaster
+img https://en.wikipedia.org/wiki/Chimaericola_leptogaster
+vid null
+|
+publication
+null
