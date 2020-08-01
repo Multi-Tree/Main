@@ -5,7 +5,7 @@ Maotianoascus octonarius (Chen et Hou, 1997)
 |
 ref
 txt https://zh.wikipedia.org/wiki/%E5%85%AB%E7%93%A3%E5%B8%BD%E5%A4%A9%E5%9B%8A%E6%B0%B4%E6%AF%8D
-img https://zh.wikipedia.org/wiki/%E5%85%AB%E7%93%A3%E5%B8%BD%E5%A4%A9%E5%9B%8A%E6%B0%B4%E6%AF%8D; 
+img https://zh.wikipedia.org/wiki/%E5%85%AB%E7%93%A3%E5%B8%BD%E5%A4%A9%E5%9B%8A%E6%B0%B4%E6%AF%8D; https://en.wikipedia.org/wiki/Maotianoascus
 vid null
 |
 publication
