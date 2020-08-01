@@ -1,0 +1,12 @@
+Maotianoascus octonarius (Chen et Hou, 1997)
+中文名：八瓣帽天囊水母
+|
+八瓣帽天囊水母（学名：Maotianoascus octonarius）是澄江动物群中的一种动物，发现于云南澄江县帽天山，由侯先光等人描述。动物体呈卵形，辐射对称，也可两侧对称，口位于身体下部中央，表面有从上到下的摆列均匀的八条栉板列，故名。分类上属于栉水母动物门硬骨纲，目及科未定，也有分入腔肠动物门的。八瓣帽天囊水母类似于现生的栉水母，但栉板数目比现生种要多，有16条。
+|
+ref
+txt https://zh.wikipedia.org/wiki/%E5%85%AB%E7%93%A3%E5%B8%BD%E5%A4%A9%E5%9B%8A%E6%B0%B4%E6%AF%8D
+img https://zh.wikipedia.org/wiki/%E5%85%AB%E7%93%A3%E5%B8%BD%E5%A4%A9%E5%9B%8A%E6%B0%B4%E6%AF%8D; 
+vid null
+|
+publication
+null
