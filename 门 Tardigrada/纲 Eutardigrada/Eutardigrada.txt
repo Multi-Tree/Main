@@ -1,0 +1,14 @@
+Eutardigrada (Richters, 1926)
+中文名：真緩步綱
+|
+Eutardigrada are a class of tardigrades (Tardigrada) without lateral appendices. Primarily freshwater bound, some species have secondarily gained the ability to live in marine environments (Halobiotus). By cryptobiosis many species are able to live temporarily in very dry environments. More than 700 species have been described.
+
+The order Apochela consists of only one family, Milnesiidae, with two genera: Milnesium and Limmenius. Milnesium tardigradum can be found worldwide and is one of the biggest species among tardigrades (up to 1.4 mm); similar-looking species have been found in Cretaceous amber. The mouth of this predator has a wide opening, so the animal can eat rotifers and larger protists. Other eutardigrades belong to the order Parachaela.
+|
+ref
+txt https://en.wikipedia.org/wiki/Eutardigrade
+img null
+vid null
+|
+publication
+null
