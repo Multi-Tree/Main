@@ -1,0 +1,20 @@
+名称 Acarus farinae
+中文名 粉螨
+|
+The flour mite, Acarus siro, a pest of stored grains and animal feedstuffs, is one of many species of grain and flour mites. 
+An older name for the species is Tyroglyphus farinae.
+The flour mite, which is pale greyish white in colour with pink legs, is the most common species of mite in foodstuffs. 
+The males are from 0.33–0.43 millimetres (0.013–0.017 in) long and the female is from 0.36–0.66 mm (0.014–0.026 in) long. 
+The flour mites are found in grain and may become exceedingly abundant in poorly stored material. 
+The female produces large clutches of eggs and the life cycle takes just over two weeks. 
+The cast skins and dead bodies can form a fluffy brown material that accumulates under sacks on the warehouse floor. 
+After a while, predatory mites tend to move in, and these keep the flour mites under control.
+Flour mites that contaminate grains, flour and animal feedstuffs, create allergens in the dust produced, and also transfer pathogenic microorganisms.
+Foodstuffs acquire a sickly sweet smell and an unpalatable taste.When fed infested feeds, animals show reduced feed intake, diarrhea, inflammation of the small intestine,
+and impaired growth. Pigs have their live-weight gain, feed-to-gain ratio, and nitrogen retention markedly reduced by infested feeds.
+Flour mites are intentionally inoculated into Mimolette cheese to improve the flavor. when used for this purpose, they may be referred to as "cheese mites".
+The mites sometimes bite humans, which can cause an allergic reaction known as Baker's itch.
+|
+txt 图片 https://en.wikipedia.org/wiki/Flour_mite
+|
+null
