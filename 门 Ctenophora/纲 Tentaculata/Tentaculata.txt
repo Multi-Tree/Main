@@ -1,0 +1,14 @@
+Tentaculata (Eschscholtz, 1825)
+中文名：综合纲
+|
+Tentaculata is a class of comb jellies. The common feature of this class is a pair of long, feathery, contractile tentacles, which can be retracted into specialised ciliated sheaths. In some species, the primary tentacles are reduced and they have smaller, secondary tentacles. The tentacles have colloblasts, which are sticky-tipped cells that trap small prey.
+
+Body size and shape varies widely. The group includes the small, oval sea gooseberries found on both Atlantic and Pacific coasts. The more flattened species of the genus Mnemiopsis, about 4 inches (10 cm) long, are common on the upper Atlantic coast; it has a large mouth and mainly feeds on larval molluscs and copepods. This species is brilliantly luminescent. The similar, but larger, genus Leucothea is abundant on the Pacific coast. Venus girdle (genus Cestum) is a flattened, ribbon-like form reaching over 3 feet (91 cm) in length, and found in tropical waters.
+|
+ref
+txt https://en.wikipedia.org/wiki/Tentaculata
+img null
+vid null
+|
+publication
+null
