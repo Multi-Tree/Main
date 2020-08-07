@@ -1,0 +1,10 @@
+名称 Platydesmus
+中文名 null
+|
+Platydesmidans have a flattened body shape with lateral extensions (paranota) on each segment. 
+They lack eyes, and have between 30 and 110 body segments. They measure up to 60 mm (2.4 in) in length.
+|
+txt https://en.wikipedia.org/wiki/Platydesmida
+图片 https://commons.wikimedia.org/wiki/File:Platydesmus_sp._(La_Selva,_Costa_Rica).jpg
+|
+null
