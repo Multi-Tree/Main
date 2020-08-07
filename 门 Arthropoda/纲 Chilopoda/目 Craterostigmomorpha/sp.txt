@@ -1,0 +1,15 @@
+名称 Geophilus flavus
+中文名null
+|
+The Craterostigmomorpha are the least diverse centipede clade, comprising only two extant species, both in the genus Craterostigmus.
+Their geographic range is restricted to Tasmania and New Zealand. They have a distinct body plan; 
+their anamorphosis comprises a single stage: in their first moult, they grow from having 12 segments to having 15.
+Their low diversity and intermediate position between the primitive anamorphic centipedes and the derived Epimorpha has led to them being likened to the platypus.
+They represent the survivors of a once diverse clade.
+Maternal brooding unites the Craterostigmomorpha with the Epimorpha into the clade Phylactometria. 
+This trait is thought to be closely linked with the presence of sternal pores, which secrete sticky or noxious secretions, which mainly serve to repel predators and parasites.
+The presence of these pores on the Devonian Devonobius permits its inclusion in this clade, allowing its divergence to be dated to 375 (or more) million years ago
+|
+txt 图片 https://en.wikipedia.org/wiki/Centipede
+|
+null
