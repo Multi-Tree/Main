@@ -1,0 +1,14 @@
+Cephalorhyncha (Lemburg, 1995)
+中文名：头足门
+|
+The Cephalorhyncha are a group of ecdysozoan animals that traditionally have been classified together with a variety of unusual and lesser known organisms in a larger group variously known as the Aschelminthes, Nemathelminthes, and/or Pseudocoelomata. This larger group is now known to be polyphyletic, and contained several taxa that were not closely related. However, one part of that group -- the priapulids, kinorhynchs, and loriciferans -- appears to form a group in its own right. Now these organisms are grouped with the nematodes and arthropods based on a set of shared characters including the presence of a cuticle and the fact that they periodically shed their cuticle in a process called ecdysis. Some zoologists have suggested an even closer relationship with the nematodes, and call the combination of nematodes and cephalorhynchs the Cycloneuralia.
+
+All cephalorhynchs have a spiny proboscis which can be collapsed inside the head or everted (turned inside out) to gather food using the spines. This is rather like turning a sock inside out, only with the surface of the sock covered with numerous tiny hooks. It is this spiny evertible proboscis that gives the group its name Cephalorhyncha, meaning "beak"-head.
+|
+ref
+txt https://ucmp.berkeley.edu/phyla/ecdysozoa/cephalorhyncha.html
+img null
+vid null
+|
+参考书目
+null
