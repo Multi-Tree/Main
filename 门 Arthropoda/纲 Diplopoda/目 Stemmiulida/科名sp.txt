@@ -1,0 +1,12 @@
+名称Stemmiulidae
+中文名 null
+|
+Stemmiulids are small to medium sized millipedes, reaching a maximum length of 50 mm (2 in). 
+The body tapers gradually, and is laterally compressed, so is taller than wide. A dorsal groove is present and runs from head to tail. 
+The eyes consist of two large ocelli on each side of the head, and some members are capable of jumping.
+The living species lack Tömösváry organs, although a fossil species from the Miocene epoch possesses them.
+|
+txt https://en.wikipedia.org/wiki/Stemmiulidae
+图片 https://en.wikipedia.org/wiki/Stemmiulidae
+|
+null
