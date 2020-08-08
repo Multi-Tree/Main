@@ -1,0 +1,16 @@
+Neocrinus decorus (Thomson, 1864)
+中文名：无
+|
+Isocrinida is an order of sea lilies which contains four extant families. Members of this order are characterised by having a "heteromorphic" stalk; the stalk consists of a series of nodes with cirri, interspersed by several nodes without cirri. There are additionally a whorl of cirri at the base on which the animal perches. The calyx is a shallow cup consisting of five basals and five radials.
+
+Neocrinus is a genus of crinoids in the family Isocrinidae, and contains only 2 known species, that have appeared on Earth 23.03 million years ago in the Miocene Epoch.
+
+Neocrinus decorus is a species of crinoid in the family Isocrinidae. Neocrinus decorus has been around for 23.03 million years, and lives at depths from 154 to 1219 meters deep, in the Caribbean of Venezuela, living on hard substrate.
+|
+ref
+txt https://en.wikipedia.org/wiki/Isocrinida; https://en.wikipedia.org/wiki/Neocrinus
+img https://en.wikipedia.org/wiki/Neocrinus; https://en.wikipedia.org/wiki/Isocrinida
+vid null
+|
+publication
+null
