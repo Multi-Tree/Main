@@ -1,0 +1,16 @@
+Agelas sansibarica (Perino & Pronzato, 2016)
+中文名：无
+|
+A new sponge species (Demospongiae: Agelasida: Agelasidae) is described from the eastern coast of Unguja Island in the Zanzibar Archipelago. Agelas sansibarica sp. n. is compared to all other Agelas species described so far. The new species differs from its congeners mainly in its three categories of verticillate spicules (acanthostyles, acanthostrongyles, and acanthoxeas) and their sizes.
+
+Growth form massive, thick, rounded, 6–10 cm in diameter. Colour in life purple to orange and light brown. Consistency firm and elastic. Surface rough to the touch, finely hispid, finely conulose for tips of ascending fibres supporting the dermal membrane, with regularly scattered circular and convoluted depressions (0.5 cm in diameter) very similar to those of A. cerebrum. Oscules few, small, irregularly scattered. Choanosomal skeleton as an irregularly reticulate network of spongin fibres. Primary fibres 50–110 (71.67 ±17.63) μm in diameter, strongly echinate by single, scattered spicules to groups of diverging spicules; ascending primary fibres cored by spicules also present. Secondary fibres 20–50 (35 ± 9) μm in diameter notably echinate and cored by spicules. Tertiary network not observed.
+
+Megascleres as three categories of monaxons mostly with acute spines. Acanthostyles 90–250 (180.72 ± 28.66) × 7.5–20 (13.46 ± 2.59) μm ornate by verticillate spines arranged as 11–27 (17.8 ± 2.86) whorls. Acanthoxeas 130–295 (195 ± 43.09) × 7.5–15 (12.17 ± 1.89) μm ornate by verticillate spines arranged as 14–26 (19.24 ± 3.47) whorls. Acanthostrongyles 80–245 (148.18 ± 36.82) × 4–17 (11.09 ± 4.24) μm ornate by verticillate spines arranged as 9–26 (15.76 ± 3.85) whorls. Annulate spicules apparently young.
+|
+ref
+txt https://zookeys.pensoft.net/articles.php?id=5999
+img https://zookeys.pensoft.net/articles.php?id=5999
+vid null
+|
+参考书目
+null
