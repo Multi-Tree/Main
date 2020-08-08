@@ -1,0 +1,12 @@
+Mastophorus muris (Gmelin, 1790)
+中文名：无
+|
+Mastophorus muris is a parasitic nematode in the genus Mastophorus. It infects animals such as the marsh rice rat (Oryzomys palustris), hispid cotton rat (Sigmodon hispidus), and singing vole (Microtus miurus).
+|
+ref
+txt https://en.wikipedia.org/wiki/Mastophorus_muris
+img https://www.semanticscholar.org/paper/First-record-of-Mastophorus-muris-(Gmelin%2C-1790)-in-Vukicevic-Radic-Kataranovski/c62580cd4b2dcb3345667597859d92a9a823aef7
+vid null
+|
+publication
+null
