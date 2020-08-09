@@ -1,0 +1,12 @@
+†Pachytylopsis persenairei (de Borre, 1875)
+中文名：无
+|
+Pachytylopsis persenairei was named by de Borre (1875). It is an impression. Its type locality is Belle et Bonne colliery, Jemappes, which is in a Westphalian C terrestrial siliciclastic in the Flénu Formation of Belgium. It is the type species of Pachytylopsis.
+|
+ref
+txt https://paleobiodb.org/classic/checkTaxonInfo?taxon_no=214797&is_real_user=1
+img null
+vid null
+|
+publication
+null
