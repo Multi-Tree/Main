@@ -1,0 +1,14 @@
+Not assigned
+中文名：无
+|
+这里包含了latyhelminthes扁形动物门下一些未分类或尚有争议的类群。
+
+根据维基百科，扁形动物门下的纲有传统和系统发育学两种分类方法，sp2000采用的分类方法不明确，而将多种类群都归入了Not assigned中，但实际上一些类群已经有较为认可的归类。如Rhabditophora用系统发育学方法独立出一个纲，里面包含了两个亚纲Macrostomorpha和Trepaxonemata，后者则包含了sp2000中包括Not assigned在内的不少类群，如三肠目（传统上被归入涡虫纲），绦虫目（传统上为独立的纲），吸虫目（传统上为独立的纲）等等。
+|
+ref
+txt https://en.wikipedia.org/wiki/Rhabditophora
+img null
+vid null
+|
+publication
+null
