@@ -1,0 +1,12 @@
+Millepora alcicornis (Linneus 1758)
+	中文名：火珊瑚
+	|
+  Millepora alcicornis, or sea ginger, is a species of colonial fire coral with a calcareous skeleton. It is found on shallow water coral reefs in the tropical west Atlantic Ocean. It shows a variety of different morphologies depending on its location. It feeds on plankton and derives part of its energy requirements from microalgae found within its tissues. It is an important member of the reef building community and subject to the same threats as other corals. It can cause painful stings to unwary divers.
+  火珊瑚，又名刺珊瑚，俗称两叉千孔珊瑚。珊瑚体由一些直立的版叶或分枝构成，这些版叶和分枝的表面都很平滑，肉眼几乎看不出任何水螅虫的痕迹，它们的水螅虫很小，而且近似透明的，像一层纤细的毛发。千孔珊瑚属于水母种类，含有毒性强烈的刺丝胞。如果碰到火珊瑚，皮肤会立即产生灼烧感，同时会长疹子，并导致淋巴腺肿大。火珊瑚的刺丝胞非常细小，包含了可以伸缩的触手。火珊瑚的表面由尖锐及钙化的外骨骼所覆盖，很易擦伤潜水员的皮肤。
+  |
+	ref
+	txt http://en.wikipedia.org/wiki/Millepora_alcicornis https://baike.baidu.com/item/%E7%81%AB%E7%8F%8A%E7%91%9A/14767518?fr=aladdin
+	img http://www.reefcolors.de/result_common.php?FreeName=Millepora%20alcicornis&NameID=ScientificName
+	vid null
+	|
+	参考书目
