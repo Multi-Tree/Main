@@ -1,0 +1,20 @@
+Not assigned
+中文名：无
+|
+这里包含了腹毛动物门下两个未分类的目Chaetonotida和Macrodasyida。以下为这两个目的简要介绍。
+
+The Chaetonotida is an order of gastrotrichs. They generally have a tenpin or bottle-like shape.
+
+Chaetonotids inhabit both freshwater and marine environments. They can be distinguished from other gastrotrichs by the absence of pores in the pharynx, and by the presence of adhesive glands at the posterior end of the animal only. Most freshwater species are parthenogenetic. The smooth or complex cuticle has a variable number of adhesive tubes, and the pharyngeal lumen of Chaetonotids is Y-shaped. A valve may be present at the junction of the pharynx and midgut. The epidermis in most organisms in this order is partly syncytial. The Chaetonotids are divided into two suborders, Multitubulatina and Paucitubulatina. Multitubulatina are marine, hermaphroditic strap-shaped organisms. Paucitubulatina are mostly freshwater, bowling pin shaped organisms that can be hermaphroditic, parthenogenetic or both.
+
+Macrodasyida is an order of gastrotrichs. Members of this order are somewhat worm-like in form, and not more than 1 to 1.5 mm in length.
+
+Macrodasyids are almost in entirely marine and live in the sediment in marine or brackish water, but two species have been discovered in freshwater. They can be distinguished from other gastrotrichs by the presence of two pores on either side of the pharynx, that allow excess water to be expelled during feeding. The body is dorsally flattened and there are tubular adhesive glands at both ends and on the lateral surfaces. These animals are detritivores and are hermaphrodites.
+|
+ref
+txt https://en.wikipedia.org/wiki/Chaetonotida; https://en.wikipedia.org/wiki/Macrodasyida
+img null
+vid null
+|
+publication
+null
