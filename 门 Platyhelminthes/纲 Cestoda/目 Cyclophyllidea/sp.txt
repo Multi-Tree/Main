@@ -1,0 +1,12 @@
+Aploparaksis borealis
+	中文名：无
+	|
+	Aploparaksis borealis sp. n. (Cestoda: Hymenolepididae), from the long-tailed jaeger, Stercorarisu longicaudus Vieillot, on the Seward Peninsula, Alaska, and from the red-throated pipit, Anthus cervinus (Pallas), and the Lapland longspur, Calcarius lapponicus (Linnaeus), in Chukotka, northestern Siberia, is described.
+	|
+	ref
+	txt https://www.researchgate.net/publication/22308687_Aploparaksis_borealis_sp_n_Cestoda_Hymenolepididae_from_Passeriform_and_Charadriiform_Birds_in_Chukotka_and_Alaska#:~:text=Aploparaksis%20borealis%20sp.%20n.%20%28Cestoda%3A%20Hymenolepididae%29%2C%20from%20the,lapponicus%20%28Linnaeus%29%2C%20in%20Chukotka%2C%20northestern%20Siberia%2C%20is%20described.
+	img null
+	vid null
+	|
+	参考书目
+	null
