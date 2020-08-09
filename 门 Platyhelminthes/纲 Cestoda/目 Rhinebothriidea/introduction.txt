@@ -1,0 +1,12 @@
+Rhinebothriidea
+	中文名：无
+	|
+  Rhinebothriidea is an order of Cestoda. Members of this order are gut parasites of stingrays.
+	|
+	ref
+	txt http://en.wikipedia.org/wiki/Rhinebothriidea
+	img null
+	vid null
+	|
+	参考书目
+	null
