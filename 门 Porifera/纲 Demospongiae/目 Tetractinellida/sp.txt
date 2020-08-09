@@ -1,0 +1,12 @@
+Geodia neptuni (Sollas, 1886)
+	中文名：无
+	|
+  Geodia neptuni. A large, barrel shaped sponge, squat, with very thick walls. Commonly the barrels are irregular or incomplete. It has a tough texture, and the outside is irregular and rough. Colour is brown, sometimes with reddish shades.
+	|
+	ref
+	txt coralpedia.bio.warwick.ac.uk/en/sponges/geodia_neptuni
+	img https://spongeguide.uncw.edu/speciesinfo.php?searchtype=0&species=20
+	vid null
+	|
+	publication
+	null
