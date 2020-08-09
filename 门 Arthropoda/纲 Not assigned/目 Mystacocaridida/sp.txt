@@ -1,0 +1,20 @@
+Derocheilocaris typica (Pennak & Zinn, 1943)
+中文名：无
+|
+Mystacocarida is a subclass of crustaceans, that form part of the meiobenthos. They are less than 1 mm (0.04 in) long, and live interstitially in the intertidal zones of sandy beaches.
+
+The taxonomy of the Mystacocarida is extremely conservative, since all mystacocarids look superficially alike. As of October 2012, the 13 described species are divided between two genera, Derocheilocaris (eight species) and Ctenocheilocharis (five species). The first mystacocarids to be found were discovered on a beach in southern New England in 1939.
+
+Mystacocarids occur along the coasts of South and North America, southern Africa, and the western Mediterranean. The lack of records from other parts of the world is "almost certainly" due to a lack of appropriate sampling, rather than a true absence.
+
+Mystacocarids are tiny crustaceans, less than 1 mm (0.039 in) long, that live in the spaces between sand grains on intertidal beaches. They have a cylindrical body, with five thoracic and five abdominal segments. Four pairs of small thoracic appendages are seen.
+
+The head is relatively large and divided into two by a stricture, so that the latter part gives the appearance of being a part of the thorax. This region bears a pair of maxillipeds, and the head also has two pairs of maxillae, a pair of limb-like mandibles, and two pairs of long antennae. The appendages on the head are much longer than those on the thorax, and have a number of fine hairs that the animal uses to strain detritus from the water to feed on. They have a single naupliar eye. After mating, mystacocarids lay tiny eggs which hatch into a nauplius or metanauplius larva.
+|
+ref
+txt https://en.wikipedia.org/wiki/Mystacocarida
+img https://animaldiversity.org/accounts/Derocheilocaris_typica/pictures/
+vid null
+|
+publication
+null
