@@ -1,0 +1,20 @@
+Cephalobaena tetrapoda (Heymons, 1922)
+中文名：无
+|
+The family Cephalobaenidae is a group of endoparasites that infect the respiratory tract of snakes. They are characterized by a cephalotorax with five short protuberances, from which the name pentastomid derives. The fifth protuberance is an anterior snout like projection (rostrum) bearing the circular chitinous cadre in the mouth and four leg like projections, located at each side of the body and bearing hooks for clinging to the host (Rego, 1983; Riley, 1986). A cladistic analysis of pentastomids performed by Almeida & Christoffersen, (1999) pointed out the cephalobenids as the most basal group among the recent Pentastomida.
+
+Only three species of Cephalobaena have been described from South America: C. tetrapoda Heymons, 1922, C. giglioli (Hett, 1924) and C. freitasi (Motta & Gomes, 1968) (Rego, 1983). However, in posterior taxonomic reviews, Ali et al. (1984a, b; 1985) demonstrated that C. giglioli and C. freitasi actually belong to genus Raillietiella. Thus, today Cephalobaenidae is a family of pentastomids constituted by a single neotropical species, C. tetrapoda (see Riley, 1986: 61-63). This species live in viperid snakes collected in the neotropical regions, as in Brazil, Paraguay, Uruguay, and Argentina (Sambon, 1922a). In Brazil a single case of C. tetrapoda infecting snake was reported in Crotalus terrificus (Viperidae) collected in the state of São Paulo (Motta, 1963a: 7-8).
+
+Morphology infomation from this paper:
+
+Female: body length/thickness 34×1.4; abdomen with 38 annuli(part of abdomen is damaged); hooks simple, equal in size; cephalothorax trapezoidal(shaped like a "hand"), distinct from abdomen with rostrum long and large, and podial lobes long and retracted in sockets; mouth terminal; apicaland dorsal papillae present and prominent; anus ventral; caudal papillae present;
+
+Male: body length/thickness 14×0.8 of thickness; abdomen with indistinct annuli; hooks simple, equal in size, shaped like a claw; cephalothorax trapezoidal distinct fromabdomen with rostrum and podial lobes large; mouth terminal; apical and dorsal papillaepresent and prominent; anus ventral; caudal papillae present.
+|
+ref
+txt https://www.researchgate.net/publication/6924416_First_record_of_Cephalobaena_tetrapoda_Pentastomida_Cephalobaenidae_as_a_parasite_on_Liophis_lineatus_Ophidia_Colubridae_in_Northeast_Brazil
+img https://www.researchgate.net/publication/6924416_First_record_of_Cephalobaena_tetrapoda_Pentastomida_Cephalobaenidae_as_a_parasite_on_Liophis_lineatus_Ophidia_Colubridae_in_Northeast_Brazil
+vid null
+|
+publication
+null
