@@ -1,0 +1,16 @@
+†Caloneura dawsoni (Brongniart, 1885)
+中文名：无
+|
+Caloneurodea er en utdødd insektgruppe.
+
+Caloneurodea hadde to par omtrent like, membranøse vinger. Vingene var sterkt foldete (plisserte). Antennene var svært lange, trådformede, føttene fem-leddete og haletrådene (cerci) redusert til ett ledd.
+
+Gruppen er først kjent fra Karbon og døde etter alt å dømme ut i den store massutdøingen ved slutten av Perm.
+|
+ref
+txt https://no.wikipedia.org/wiki/Caloneurodea
+img https://no.wikipedia.org/wiki/Caloneurodea
+vid null
+|
+publication
+https://www.researchgate.net/publication/228494116_The_extinct_order_Caloneurodea_Insecta_Pterygota_Panorthoptera_wing_venation_systematics_and_phylogenetic_relationships; https://www.researchgate.net/publication/27372449_Studies_on_Carboniferous_Insects_of_Commentry_France_Part_III_The_Caloneurodea
