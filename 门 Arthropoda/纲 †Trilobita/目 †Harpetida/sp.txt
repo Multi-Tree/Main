@@ -1,0 +1,22 @@
+Harpes macrocephallus (Goldfuss 1839)
+中文名：无
+|
+Harpetida is one of the nine orders of the extinct arthropod class Trilobita. The first harpetid trilobites appear in the Upper Cambrian, and the last species die out at the end of the Devonian period.
+
+Harpetid trilobites are characterized among trilobites by bearing a comparatively large, semicircular brim around the cephalon (head) which is often perforated by small pores. This brim is thought to serve as a filter-feeding apparatus. The brim stretches backward on either side of the cephalon (head) and typically has a pronounced suture along the outside.
+
+The compound eyes are typically reduced to small tubercles, though they have strong ridges stretching to the glabella (central region of the cephalon). They also typically have 12 or more thoracic segments. The pygidia are usually small.
+
+The families of Harpetida were formerly included in the order Ptychopariida, but were recently given their own order (Ebach & McNamara 2002). The subclass Librostoma was erected in 1990 by Richard Fortey to cover the various orders originally placed within Ptychopariida. The name "Harpidae" was once used as the name for the trilobite family containing the type genus Harpes. However, this is in conflict with the use of the same name for the family of harp snails and that taxon had precedence.
+
+Harpes macrocephallus was named by Goldfuss (1839). It is the type species of Harpes.
+
+Harpes macrocephallus is a species of trilobites in the family Harpetidae. This species is extinct. Harpes macrocephallus is a suspension feeder. It is a fast moving animal.
+|
+ref
+txt https://en.wikipedia.org/wiki/Harpetida; https://paleobiodb.org/classic/checkTaxonInfo?taxon_no=313759&is_real_user=1; https://eol.org/pages/52592324
+img http://www.asahi-net.or.jp/~ug7s-ktu/e_315.htm; https://www.deviantart.com/avancna/art/Harpes-macrocephalus-570168418
+vid null
+|
+publication
+null
