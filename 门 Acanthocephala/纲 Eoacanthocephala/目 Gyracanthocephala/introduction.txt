@@ -1,0 +1,12 @@
+Quadrigyridae; Van Cleve, 1936
+	中文名：无
+	|
+	Quadrigyridae is the only family within Gyracanthocephala, an order of parasitic worms of class Eoacanthocephala.
+	|
+	ref
+	txt https://en.wikipedia.org/wiki/Quadrigyridae
+	img null
+	vid null
+	|
+	参考书目
+	null
