@@ -1,0 +1,22 @@
+Flustra foliacea (Linnaeus, 1758)
+中文名：无
+|
+Flustra foliacea is a species of bryozoans found in the northern Atlantic Ocean. It is a colonial animal that is frequently mistaken for a seaweed. Colonies begin as encrusting mats, and only produce loose fronds after their first year of growth. They may reach 20 cm (8 in) long, and smell like lemons. Its microscopic structure was examined by Robert Hooke and illustrated in his 1665 work Micrographia.
+
+Flustra foliacea was studied as early as 1665, when Robert Hooke published observations of various organisms and materials made with an early microscope. It was first given a binomial name in 1758, when Carl Linnaeus included it in the 10th edition of his Systema Naturae as Eschara foliacea. In later publications, Linnaeus divided bryozoans into more than one genus, and so the species came to be called Flustra foliacea. It is the type species of the genus Flustra.
+
+Flustra foliacea is often mistaken for a seaweed, but is actually a colony of animals. The fronds can reach a height of 20 centimetres (7.9 in) and have rounded ends. They have a strong aroma of lemons. It differs from the superficially similar Securiflustra securifrons by the tendency of the frond branches to become markedly wider towards the tip. Each zooid is roughly rectangular, with 4–5 short spines at the distal end and 13–14 tentacles around the lophophore.
+
+Flustra foliacea has a wide distribution in the north Atlantic Ocean, on both the European and American sides. It is restricted to colder sublittoral waters, and reaches its southern limit in northern Spain.
+
+The fronds of Flustra foliacea are often used by other animals as a substrate to live on. Such epibionts include other bryozoa such as Crista eburnea, hydroids, sessile polychaete worms and the porcelain crab Pisidia longicornis. Other animals feed on F. foliacea, including the sea urchins Echinus esculentus and Psammechinus miliaris and the nudibranch Crimora papillata; the pycnogonid Achelia echinata feeds preferentially on F. foliacea.
+
+Flustra foliacea colonies only grow in spring and summer, which can result in visible annual growth rings. Breeding occurs between separate male and female zooids within the colony in autumn and winter. The cells produce outgrowths known as ovicells, which contain embryos and are visible from October to February. The larvae are released in spring and, after a short period, settle to the substrate. For the first year, colonies grow only along the surface (encrusting), with loose fronds only being formed in subsequent years. These are produced when two encrusting colonies meet, and the two edges that make contact begin to grow upwards, back to back. The total lifespan of a colony may reach 12 years. It is frequently found washed up on beaches after storms.
+|
+ref
+txt https://en.wikipedia.org/wiki/Flustra_foliacea
+img https://commons.wikimedia.org/wiki/Category:Flustra_foliacea
+vid null
+|
+publication
+null
