@@ -1,0 +1,12 @@
+Gyrodactylus salaris (Malmberg, 1957)
+	中文名：鲑鱼吸虫
+	|
+	Gyrodactylus salaris，俗称鲑鱼吸虫（salmon fluke），是一种生活在淡水鱼体表的微小单殖外寄生虫。这种水蛭般的寄生虫有牵连的大西洋鲑鱼种群在挪威峡湾的减少。它还寄生于其他物种，包括虹鳟鱼。G. salaris需要淡水，但可以在微咸水中存活长达18小时。寄生虫的长度为0.5毫米，肉眼无法看到，但可以用放大镜看到。
+	|
+	ref
+	txt https://en.wikipedia.org/wiki/Gyrodactylus_salaris
+	img https://earthlingnature.wordpress.com/2019/01/11/friday-fellow-salmon-fluke/
+	vid null
+	|
+	参考书目
+	null
