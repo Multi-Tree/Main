@@ -1,0 +1,18 @@
+†Eodictyonella coralifera (Hall, 1852)
+中文名：无
+|
+Dictyonellida is a brachiopod order within the Chileata, bearing a colleplax. Eichwaldioidea is a brachiopod superfamily comprising the EIchwaldiidae and the Isogrammidae.
+
+Eodictyonella is a genus of brachiopod. Very similar, and once proposed as synonymous with, Eichwaldia Billings 1858.
+
+Atrypa coralifera was named by Hall (1852). It is the type species of Eodictyonella.
+
+It was recombined as Dictyonella coralifera by Hall (1868) and Bassett and Cocks (1974); it was recombined as Eodictyonella coralifera by Rubel (2011).
+|
+ref
+txt https://en.wikipedia.org/wiki/Dictyonellida; https://en.wikipedia.org/wiki/Eichwaldioidea; https://en.wikipedia.org/wiki/Eodictyonella; https://paleobiodb.org/classic/checkTaxonInfo?taxon_no=370750&is_real_user=1
+img null
+vid null
+|
+publication
+null
