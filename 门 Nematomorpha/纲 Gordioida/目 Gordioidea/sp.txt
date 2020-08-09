@@ -1,7 +1,7 @@
 Chordodes formosanus
-	中文名：楔形开腹蛤
+	中文名：台湾索铁线虫
 	|
-  台湾索铁线虫（Chordodes formosanus）是一种线虫，以螳螂为最终宿主。马毛虫是专性寄生虫，它们在不同阶段通过不同的宿主。这些蠕虫可以长到90厘米长，对其宿主尤其是螳螂非常危险。
+  	台湾索铁线虫（Chordodes formosanus）是一种线虫，以螳螂为最终宿主。马毛虫是专性寄生虫，它们在不同阶段通过不同的宿主。这些蠕虫可以长到90厘米长，对其宿主尤其是螳螂非常危险。
 	|
 	ref
 	txt https://en.wikipedia.org/wiki/Chordodes_formosanus
