@@ -1,9 +1,9 @@
-名称 Astropecten monacanthus Sladen 
-中文名 单棘槭海星
+名称 Astropecten polyacanthus Müller et Troschel 
+中文名 多棘槭海星
 |
-辐径(R)最大者为60毫米，一般的为30-40毫米，间辐径(r)为8.5-11毫米，R：r为3.5。反口面的小柱体很密挤，筛板亦被小柱体所掩盖。
-腕基部的小柱体比较大，顶上具5-8个中央小棘和10-16个周缘小棘。盘中央隆起成圆锥状或内陷成一小凹。
+多棘槭海星，上缘板高，数目普通是20-29个，间辐角的一对特别大，各具一个长大和直立的棘；第2和第5上缘板上常无棘，其余各板上都有一个直立、强壮和尖圆的棘。下缘板宽，各板有一横行4-6个强壮、侧扁如剑状的棘，从侧面伸出。
 |
-txt 图片 https://baike.baidu.com/item/%E5%8D%95%E6%A3%98%E6%A7%AD%E6%B5%B7%E6%98%9F/6192249?fr=aladdin
+txt  https://baike.baidu.com/item/%E5%A4%9A%E6%A3%98%E6%A7%AD%E6%B5%B7%E6%98%9F/6192332?fr=aladdin
+图片 http://news.sina.com.cn/o/p/2011-04-01/112622222319.shtml
 |
 null
