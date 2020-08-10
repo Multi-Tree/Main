@@ -1,0 +1,12 @@
+名称 Isocrania
+中文名 null 
+|
+The Ctenostomata are an order of bryozoans in the class Gymnolaemata.
+The great majority of ctenostome species are marine, although Paludicella inhabits freshwater.
+They are distinguished from their close relatives, the cheilostomes, by their lack of a calcified exoskeleton. 
+Instead, the exoskeleton is chitinous, gelatinous, or composed only of a soft membrane, and always lacks an operculum. 
+Colonies of ctenostomes are often composed of elongated, branch-like stolons, although more compact forms also exist. 
+|
+txt 图片 https://en.wikipedia.org/wiki/Isocrania
+|
+null
