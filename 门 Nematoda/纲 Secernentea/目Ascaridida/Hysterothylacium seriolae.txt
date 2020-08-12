@@ -1,0 +1,14 @@
+Hysterothylacium seriolae (Yamaguti, 1941)
+中文名：子宫丝酵母
+|
+是一种内寄生虫，在日本海的日本部分发现， Seriola dumerili（Risso 1810）（联盟翠鸟）和Seriola rivoliana Valenciennes 1833（阿尔玛科A鱼）都有被其寄生的痕迹。
+该物种在其掠食性硬骨鱼作为其最终宿主与各种无脊椎动物和硬骨鱼作为其中间宿主之间完成其生命周期。这些寄生虫在幼体阶段不是宿主特有的，并感染多种鱼类。因此，它们广泛分布于整个水生生态系统，并具有全球分布。鱼体内的桔小oth感染已与寄生虫幼虫迁移导致的对心脏，眼睛和鱼的肌肉组织的机械损伤有关。
+|
+参考
+txt  https://eol.org/pages/16862105/data
+    https://en.wikipedia.org/wiki/Hysterothylacium
+img  https://www.researchgate.net/publication/26244432_A_New_Species_of_Hysterothylacium_Nematoda_Anisakidae_from_the_Stomach_of_the_Red-Spotted_Newt_Notophthalmus_viridescens_from_Pennsylvania_Fishless_Ponds
+vid null
+|
+出版社
+null
