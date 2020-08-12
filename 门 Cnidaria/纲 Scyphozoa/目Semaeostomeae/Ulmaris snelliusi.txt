@@ -16,7 +16,7 @@ Ulmaris snelliusi（Stiasny, 1935）
 参考
 txt http://dryades.units.it/jelly/index.php?procedure=taxon_page&id=&num=97
    https://www.sealifebase.ca/summary/Ulmaris-snelliusi.html
-img null
+img https://nl.wikipedia.org/wiki/Ulmaris#/media/Bestand:Medusae_of_world-vol03_fig387_Ulmaris_prototypus.jpg
 vid null
 |
 出版社
