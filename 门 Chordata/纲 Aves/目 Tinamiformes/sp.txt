@@ -1,0 +1,22 @@
+Tinamus major (Gmelin, 1789 [originally Tetrao])
+中文名：大䳍
+|
+The great tinamou (Tinamus major) is a species of tinamou ground bird native to Central and South America. There are several subspecies, mostly differentiated by their coloration.
+
+The great tinamou is approximately 44 cm (17 in) long, 1.1 kg (2.4 lb) in weight and size and shape of a small turkey. It ranges from light to dark olive-green in color with a whitish throat and belly,[4] flanks barred black, and undertail cinnamon. Crown and neck rufous, occipital crest and supercilium blackish. Its legs are blue-grey in color. All these features enable great tinamou to be well-camouflaged in the rainforest understory.
+
+The great tinamou has a distinctive call, three short, tremulous but powerful piping notes which can be heard in its rainforest habitat in the early evenings.
+
+The great tinamou is a polygynandrous species, and one that features exclusive male parental care. A female will mate with a male and lay an average of four eggs which he then incubates until hatching. He cares for the chicks for approximately 3 weeks before moving on to find another female. Meanwhile, the female has left clutches of eggs with other males. She may start nests with five or six males during each breeding season, leaving all parental care to the males. The breeding season is long, lasting from mid-winter to late summer. The eggs are large, shiny, and bright blue or violet in color, and the nests are usually rudimentary scrapings in the buttress roots of trees.
+
+Except during mating, when a pair stay together until the eggs are laid, great tinamous are solitary and roam the dark understory alone, seeking seeds, fruit, and small animals such as insects, spiders, frogs and small lizards in the leaf litter. They are especially fond of Lauraceae, annonaceae, myrtaceae, sapotaceae.
+
+Great tinamou lives in subtropical and tropical forest such as rainforest, lowland evergreen forest, river-edge forest, swamp forest and cloud forest at altitudes from 300 to 1,500 m (1,000–4,900 ft). Unlike some other tinamous, the great tinamou isn't as affected by forest fragmentation. Its nest can be found at the base of a tree.
+|
+ref
+txt https://en.wikipedia.org/wiki/Great_tinamou
+img https://ebird.org/media/catalog?taxonCode=gretin1&sort=rating_rank_desc&mediaType=p&regionCode=
+vid null
+|
+publication
+null
