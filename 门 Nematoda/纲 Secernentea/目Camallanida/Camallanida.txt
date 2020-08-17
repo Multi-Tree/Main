@@ -1,1 +1,12 @@
+The Camallanida are an order of nematodes .
+学名： Camallanida
+暂无中文名
+上一级分类： 胞管肾纲
+亚纲： 旋尾亚纲
+分类级别： 目
 
+Kingdom:	Animalia
+Phylum:	Nematoda
+Class:	Secernentea
+Subclass:	Spiruria
+Order:	Camallanida
