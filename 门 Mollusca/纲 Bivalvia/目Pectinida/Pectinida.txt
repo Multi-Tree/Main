@@ -1,1 +1,16 @@
+Pectinida is a taxonomic order of large and medium-sized saltwater clams, marine bivalve molluscs , commonly known as scallops and their allies.  It is believed that they began evolutionarily in the late Middle Ordovician epoch; many species, of course, are still extant.
 
+学名： Pectinida
+上一级分类： 翼形类
+分类级别： 目
+
+Kingdom:	Animalia
+Phylum:	Mollusca
+Class:	Bivalvia
+Subclass:	Pteriomorphia
+Order:	Pectinida
+
+参考资料：
+1.^ Pectinoida Gray, 1854 . Retrieved through: World Register of Marine Species on 9 July 2010.
+2.^ Matsumoto, M. (2003). "Phylogenetic analysis of the subclass Pteriomorphia (Bivalvia) from mtDNA COI sequences". Molecular Phylogenetics and Evolution . 27 (3): 429. doi : 10.1016/S1055-7903(03)00013-7 .
+3.^ Bieler, R., Carter, JG & Coan, EV (2010) Classification of Bivalve families . Pp. 113-133, in: Bouchet, P. & Rocroi, JP (2010), Nomenclator of Bivalve Families. Malacologia 52(2): 1-184
