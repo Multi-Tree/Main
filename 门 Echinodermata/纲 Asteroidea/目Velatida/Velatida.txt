@@ -1,1 +1,13 @@
-
+The Velatida are an order of sea stars containing about 200 species in five families. These sea stars normally have thick bodies with large discs.
+暂无中文名
+Kingdom:	Animalia
+Phylum:	Echinodermata
+Subphylum:	Eleutherozoa
+Class:	Asteroidea
+Order:	Velatida 
+Perrier, 1884
+ 
+参考资料：
+1.^ "Asterozoa: Fossil groups: SciComms 05-06: Earth Sciences" . Palaeo.gly.bris.ac.uk. 2005-11-22 . Retrieved 2010-07-30 .
+2.^ Mah, Christopher L. "Velatida" . www.accessscience.com .
+3.^ "The World Asteroidea Database - Velatida" . Marinespecies.org . Retrieved 2010-07-30 .
