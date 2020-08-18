@@ -1,1 +1,36 @@
+学名： Lamniformes
+别名：Mackerel sharks
+中文名：鼠鲨目
 
+The Lamniformes (from the Greek word, Lamna "fish of prey") are an order of sharks commonly known as mackerel sharks (which may also refer specifically to the family Lamnidae ). It includes some of the most familiar species of sharks, such as the great white , [2] as well as more unusual representatives, such as the goblin shark and megamouth shark.
+
+Kingdom:	Animalia
+Phylum: Chordata
+Class: Chondrichthyes
+Subclass:	Elasmobranchii
+Infraclass:	Euselachii
+Superorder: Selachimorpha
+Order: Lamniformes 
+LS Berg , 1958
+
+鼠鲨目又称为鲭鲛目，海洋中大部分鲨鱼都属于鼠鲨目，包括大白鲨、长尾鲨与姥鲨，也包括较鲜为人知的尖吻鲨及巨口鲨。
+此类鲨鱼有两个背鳍、5对鳃裂，鳍上都没有鳍棘，两颌前后方牙齿同形，眼睛缺乏瞬膜。鼠鲨目同时也有能力将体温维持在周遭水温之上。
+
+分类：
+鼠鲨目共有 12 科，现存 7 科，大约分为以下各科：
+长尾鲨科 Alopiidae Bonaparte, 1838
+象鲛科 Cetorhinidae Gill, 1862：又名姥鲨科
+鼠鲨科 Lamnidae J. P. Müller & Henle, 1838
+剑吻鲨科 Mitsukurinidae D. S. Jordan, 1898
+巨口鲨科 Megachasmdae Taylor, Compagno & Struhsaker, 1983
+锥齿鲨科 Odontaspididae Müller & Henle, 1839
+糙齿鲨科 Pseudocarchariidae Compagno, 1973
+已完全灭绝的 5 科则为：
+†阿纳渡鸦鲨科 Anacoracidae Capetta, 1987
+†始鼠鲨科 Eoptolamnidae （并系群）
+†加勒比鲨科 Cardabiodontidae Siverson, 1999
+†白垩刺甲鲨科 Cretoxyrhinidae Glikman, 1958
+†耳齿鲨科 Otodontidae Gluckman, 1964
+
+参考资料：
+1.^ Froese, Rainer, and Daniel Pauly, eds. (2009). "Lamniformes" in FishBase . January 2009 version.
