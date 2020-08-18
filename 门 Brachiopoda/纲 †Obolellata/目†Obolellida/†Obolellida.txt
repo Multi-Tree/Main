@@ -1,1 +1,10 @@
+Kingdom:	Animalia
+Clade :	Lophophorata
+Phylum:	Brachiopoda
+Class:	† Obolellata
+Order:	† Obolellida
+暂无中文名
 
+参考资料：
+1.^ Balthasar, U. (2008). ~Mummpikia~ gen. nov. and the origin of calcitic-shelled brachiopods. Palaeontology 51, 263–279.
+2.^ "Paleos, Order Obolellida" . Archived from the original on 2006-09-20 . Retrieved 2006-07-04 .
