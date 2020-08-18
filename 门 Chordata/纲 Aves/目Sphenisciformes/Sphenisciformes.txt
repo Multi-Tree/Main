@@ -1,1 +1,45 @@
+学名：Sphenisciformes
+中文名：企鹅目
 
+内部分类：
+企鹅目 Sphenisciformes
+企鹅科 Spheniscidae
+王企鹅属 Aptenodytes
+皇帝企鹅 Aptenodytes forsteri
+国王企鹅 Aptenodytes patagonicus
+阿德利企鹅属 Pygoscelis
+巴布亚企鹅（绅士企鹅） Pygoscelis papua
+阿德利企鹅 Pygoscelis adeliae
+南极企鹅（帽带企鹅、颊带企鹅、胡须企鹅） Pygoscelis antarctica
+冠企鹅属 Eudyptes
+南跳岩企鹅 Eudyptes chrysocome
+北跳岩企鹅 Eudyptes moseleyi
+峡湾企鹅（凤冠企鹅、福德兰企鹅） Eudyptes pachyrhynchus
+史纳尔岛企鹅 Eudyptes robustus
+皇家企鹅 Eudyptes schlegeli
+冠毛企鹅（竖毛企鹅） Eudyptes sclateri
+马可罗尼企鹅（长冠企鹅） Eudyptes chrysolophus
+†查塔姆岛企鹅 Eudyptes chathamensis
+黄眼企鹅属 Megadyptes
+黄眼企鹅 Megadyptes antipodes
+†怀塔哈企鹅 Megadyptes waitaha
+小蓝企鹅属 Eudyptula
+小蓝企鹅（神仙企鹅） Eudyptula minor
+澳洲小蓝企鹅 Eudyptula novaehollandiae
+环企鹅属 Spheniscus
+黑脚企鹅（非洲企鹅、斑嘴环企鹅） Spheniscus demersus
+麦哲伦企鹅（麦氏环企鹅） Spheniscus magellanicus
+汉波德企鹅（洪氏环企鹅） Spheniscus humboldti
+加拉帕戈斯企鹅（加拉巴戈企鹅、加岛环企鹅） Spheniscus mendiculus
+†凯鲁库企鹅属 Kairuku
+†Kairuku grebneffi
+†Kairuku waitaki
+†巨鸟企鹅属 Kumimanu
+†碧丝巨鸟企鹅 Kumimanu biceae
+†横谷企鹅属 Crossvallia
+†南翼横谷企鹅 C. unienwillia
+†怀帕拉横谷企鹅 C. waiparensis
+
+参考资料：
+1. PINGOUIN : Etymologie de PINGOUIN. Centre National de Ressources Textxicales. [2010-01-25].
+2.Mayr, Gerald; Scofield, R. Paul; De Pietri, Vanesa L.; Tennyson, Alan J. D. A Paleocene penguin from New Zealand substantiates multiple origins of gigantism in fossil Sphenisciformes. Nature Communications. 12 December 2017, 8 (1): 1927. PMC 5727159. PMID 29233963. doi:10.1038/s41467-017-01959-6.
