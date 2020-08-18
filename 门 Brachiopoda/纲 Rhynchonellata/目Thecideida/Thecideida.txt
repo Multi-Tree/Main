@@ -1,1 +1,13 @@
+Thecideida is an order of cryptic articulate brachiopods characterized by their small size and habit of cementing their ventral valves to hard substrates such as shells, rocks and carbonate hardgrounds . Thecideides first appear in the Triassic (Jaecks and Carlson, 2001) and are common today (Lüter, 2005; Lüter et al. , 2007).
 
+学名： Thecideida
+中文名：鞘貝目
+Kingdom:	Animalia
+Clade :	Lophophorata
+Phylum:	Brachiopoda
+Class:	Rhynchonellata
+Order:	Thecideida 
+Elliott, 1958
+
+参考资料：
+1.Jaecks, GS; Carlson, SJ (2001). "How phylogenetic inference can shape our view of heterochrony: examples from thecideide brachiopods". Paleobiology . 27 (2): 205–225. doi : 10.1666/0094-8373(2001)027<0205:hpicso>2.0.co;2 .
