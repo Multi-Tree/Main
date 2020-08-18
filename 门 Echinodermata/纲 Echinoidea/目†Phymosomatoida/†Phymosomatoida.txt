@@ -1,1 +1,11 @@
+The Phymosomatoida are an order of sea urchins , found in Europe, North America, North Africa and the Middle East.
+暂无中文名
+Kingdom:	Animalia
+Phylum:	Echinodermata
+Class:	Echinoidea
+Superorder:	Echinacea
+Order:	Phymosomatoida
+Mortensen, 1904
 
+参考资料：
+1.National History Museum. "Phymosomatoida" . Retrieved 19 Dec 2009 .
