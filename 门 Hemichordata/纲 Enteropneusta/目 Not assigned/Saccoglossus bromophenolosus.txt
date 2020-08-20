@@ -1,0 +1,14 @@
+Saccoglossus bromophenolosus (Saccoglossus bromophenolosus King, Giray & Kornfield, 1994)
+	中文名：无
+	|
+	Saccoglossus bromophenolosus is a species of acorn worm occurring in the northwestern Atlantic Ocean and the northeastern Pacific Ocean. 
+  |
+	ref
+	txt https://en.wikipedia.org/wiki/Saccoglossus_bromophenolosus
+	img https://images.app.goo.gl/iLfkMy85Ds7Med8o6
+	vid null
+	|
+	publication
+	null
+	
+
