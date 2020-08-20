@@ -1,0 +1,14 @@
+Carcharhinus obscurus (Lesueur, 1818)
+	中文名：灰色真鲨
+	|
+	灰色真鲨（学名：Carcharhinus obscurus）为真鲨科真鲨属的鱼类。分布于美洲东西岸沿海、非洲西岸及东南岸沿海、亚洲东南方沿海及澳洲东西岸沿海、主要在南北纬40度之间以及台东外海等地400米以上的海域。该物种的模式产地在北美洲。它们在夏季游往两极，冬季游往赤道。它是该属最大的一个种，体长可达4.2米（14英尺），重可达347千克（765英磅）。2009年《世界自然保护联盟》（IUCN）将其列入易危物种。
+  |
+	ref
+	txt https://zh.wikipedia.org/wiki/%E7%81%B0%E8%89%B2%E7%9C%9F%E9%B2%A8
+	img 由Happy Little Nomad from Everywhere, Anywhere - Sharks At Seaworld，CC BY-SA 2.0，https://commons.wikimedia.org/w/index.php?curid=9512670
+	vid null
+	|
+	publication
+	null
+	
+
