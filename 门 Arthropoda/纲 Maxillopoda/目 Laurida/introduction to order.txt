@@ -1,0 +1,14 @@
+Laurida
+	中文名：无
+	|
+	Laurida is an order of crustacean in the infraclass Ascothoracida.
+  |
+	ref
+	txt https://en.wikipedia.org/wiki/Laurida
+	img null
+	vid null
+	|
+	publication
+	null
+	
+
