@@ -7,7 +7,7 @@ Trichechus inunguis (Natterer, 1883)
   |
 	ref
 	txt https://zh.wikipedia.org/wiki/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%B5%B7%E7%89%9B
-	img https://images.app.goo.gl/UgZct2ZAetsZrfA86
+	img https://images.app.goo.gl/tr3SLCaaxmyuFNsz8
 	vid null
 	|
 	publication
