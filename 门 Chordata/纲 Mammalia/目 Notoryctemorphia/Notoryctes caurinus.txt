@@ -1,0 +1,14 @@
+Notoryctes caurinus Thomas, 1920
+	中文名：无
+	|
+	null
+  |
+	ref
+	txt null
+	img https://images.app.goo.gl/DmE78qRjSyfnPDFg9
+	vid null
+	|
+	publication
+	null
+	
+
