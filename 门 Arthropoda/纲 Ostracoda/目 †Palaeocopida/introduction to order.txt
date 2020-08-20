@@ -1,0 +1,14 @@
+Palaeocopida
+	中文名：无
+	|
+	Palaeocopida is an extinct order of ostracods in the subclass Podocopas. The Manawa and Puncia genera are the only ones with living species
+  |
+	ref
+	txt https://en.wikipedia.org/wiki/Palaeocopida
+	img null
+	vid null
+	|
+	publication
+	null
+	
+
