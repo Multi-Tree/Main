@@ -1,0 +1,32 @@
+†Recula parva (Schlechtendal, 1906)
+	中文名：无
+	|
+	PaleoDB taxon number: 214762
+
+  Full reference: D. H. R. Schlechtendal. 1906. Taxonomic names, in Die Fossilen Insekten und die Phylogenie der Rezenten Formen. Ein Handbuch fur Palaontologen und Zoologen 1-640
+
+  Belongs to Recula according to H. Haupt 1941
+
+  See also Handlirsch 1919, Handlirsch 1922, Schlechtendal 1906 and von Schlechtendal 1913
+
+  Sister taxa: none
+
+  Type specimen: Halle Museum 211, a wing. Its type locality is Wettin, which is in a Stephanian C terrestrial shale in the Ottweiler Stufe Formation of Germany.
+
+  Ecology:
+
+  Average measurements (in mm): wing length 20.0
+
+  Age range: 303.4 to 301.2 Ma
+
+  Distribution: found only at Wettin
+  |
+	ref
+	txt http://www.fossilworks.org/cgi-bin/bridge.pl?a=taxonInfo&taxon_no=214762
+	img null
+	vid null
+	|
+	publication
+	null
+	
+
