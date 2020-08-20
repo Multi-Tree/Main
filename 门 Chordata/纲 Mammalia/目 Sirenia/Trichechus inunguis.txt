@@ -1,0 +1,16 @@
+Trichechus inunguis (Natterer, 1883)
+	中文名：无
+	|
+	亚马逊海牛（学名：Trichechus inunguis，Amazonian Manatee）是现存3种海牛中，体型最小的一种。其分布局限在亚马逊河流域的主要河道、支流与湖泊。在涨水期，亚马逊海牛会进入淹水的森林，而在较干燥的季节里，它们则会退回深潭或大湖中。由于它们害羞的天性与昏暗的栖息水域，人们对它们的社会行为了解不多。在巴西，亚马逊海牛被称为“peixe-boi”（牛鱼），在其他西班牙语系国家则被称为“vaca marina”（意为“海牛”sea cow）或“manati”。种名inunguis的意思是“没有趾甲”，这是它们不同于其他2种海牛的特点之一。
+  
+  亚马逊海牛与其他海牛类似，身体同样呈纺锤状，头部比例小，背部宽阔，以及尾鳍扁平呈圆桨状。但它们有几项可供辨别的特征，包括更小、更为流线形的身体，较光滑的皮肤与较狭长的吻部，腹部有白或粉红的斑纹，以及较为修长且缺乏趾甲的前肢。除了明显的腹部浅色斑纹外，体色大致呈暗灰至黑色。
+  |
+	ref
+	txt https://zh.wikipedia.org/wiki/%E4%BA%9A%E9%A9%AC%E9%80%8A%E6%B5%B7%E7%89%9B
+	img https://images.app.goo.gl/UgZct2ZAetsZrfA86
+	vid null
+	|
+	publication
+	null
+	
+
