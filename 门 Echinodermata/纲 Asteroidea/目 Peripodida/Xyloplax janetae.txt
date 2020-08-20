@@ -1,0 +1,13 @@
+Xyloplax janetae
+	中文名：无
+	|
+	Xyloplax janetae is a Xyloplax of the family Xyloplacidae. It lives on the surface of wood sunken to abyssal depths.
+  |
+	ref
+	txt https://en.wikipedia.org/wiki/Xyloplax_janetae
+	img https://images.app.goo.gl/D38v6oErNX26SFwk6
+	vid null
+	|
+	publication
+	null
+	
