@@ -1,0 +1,30 @@
+Ateleopus purpureus (Tanaka, 1915)
+	中文名：紫辫鱼
+	|
+	Environment: 
+  Marine; bathydemersal; depth range 100 - 600 m (Ref. 41299).   Deep-water
+  
+  DistributionCountries 
+  Northwest Pacific: Japan and the East and South China seas.
+
+  Size / Weight / Age
+  Maturity: Lm ?  range ? - ? cm
+  Max length : 70.0 cm TL male/unsexed; (Ref. 41299)
+  Short descriptionMorphology | Morphometrics
+  Dorsal spines (total): 0; Dorsal soft rays (total): 9-10; Anal spines: 0
+  
+  Biology    Glossary 
+  (e.g. epibenthic)
+  Found on sand-mud bottoms (Ref. 41299).
+  
+  又名紫软腕鱼、软腕鱼，为辫鱼科辫鱼属的鱼类。分布于日本以及东海、南海等海域，栖息深度100-600米，为深海鱼类，体长可达70公分。该物种的模式产地在日本。[1]
+  |
+	ref
+	txt https://www.fishbase.se/summary/54011 https://zh.wikipedia.org/wiki/%E7%B4%AB%E8%BE%AB%E9%B1%BC
+	img https://images.app.goo.gl/nXb2xuBqRtcLSBxy9
+	vid null
+	|
+	publication
+	null
+	
+
