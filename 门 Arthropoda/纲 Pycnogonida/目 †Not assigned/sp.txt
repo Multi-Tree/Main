@@ -1,0 +1,12 @@
+Palaeomarachne granulata (Rudkin, Cuggy, Young & Thompson 2013)
+	中文名：无
+	|
+	Palaeomarachne granulata is a species of sea spiders. This species is extinct. It is a parasite.
+  |
+	ref
+	txt http://eol.org/schema/terms/extinct
+	img null
+	vid null
+	|
+	publication
+	null
