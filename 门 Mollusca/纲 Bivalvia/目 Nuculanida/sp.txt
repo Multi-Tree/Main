@@ -1,0 +1,10 @@
+Nuculana pernula(O.F.Müller,1779)
+	中文名：无
+	|
+	Nuculana pernula, or Müller's nut clam, is a marine bivalve mollusc in the family Nuculanidae.
+  |
+	ref
+	txt https://en.wikipedia.org/wiki/Nuculana_pernula
+	img https://images.app.goo.gl/EWRNqcZGU253JE9Y7
+	vid null
+	|
