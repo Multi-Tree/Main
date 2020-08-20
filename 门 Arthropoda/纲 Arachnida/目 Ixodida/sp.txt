@@ -2,7 +2,8 @@ Ixodes persulcatus (Schulze, 1930)
 	中文名：全沟血蜱
 	|
 	Ixodes persulcatus, the taiga tick, is a species of hard-bodied tick distributed from Europe through central and northern Asia to the People's Republic of China and Japan. The sexual dimorphism of the species is marked, the male being much smaller than the female.
-  |
+	体长中等，未吸血个体约2.5～3.5mm。假头基腹面的耳状突钝齿形。第1对足基节具一细长的内距，雌虫足基节Ⅰ内距的末端达基节Ⅱ的前1/3，雄虫的内距略微超过基节Ⅱ前缘。雌虫盾板椭圆形。雄虫假头基腹面后向后凸出呈圆角。
+  	|
 	ref
 	txt en.wikipedia.org/wiki/Amblyomma_triguttatum
 	img https://images.app.goo.gl/LYU4BZkfSgdr3r4GA
