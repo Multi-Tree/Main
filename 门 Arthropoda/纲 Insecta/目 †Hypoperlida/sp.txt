@@ -1,0 +1,35 @@
+†Idelopsocus arcuatus Martynov 1928 
+中文名：无
+  |
+  (winged insect)
+  Insecta - Hypoperlida - Hypoperlidae
+
+  PaleoDB taxon number: 229970
+
+  Alternative combinations: Dinopsocus arcuatus, Martynopsocus arcuatus
+
+  Full reference: A. V. Martynov. 1928. Permian fossil Insects of North-East Europe. Travaux du Musée Géologique prés l'Académie des Sciences de l'URSS 4:1-118
+
+  Belongs to Idelopsocus according to A. P. Rasnitsyn 1996
+
+  See also Carpenter 1992, Karny 1930 and Martynov 1928
+
+  Sister taxa: Idelopsocus diradiatus, Idelopsocus galinae, Idelopsocus incommendatus, Idelopsocus levis, Idelopsocus mutovinus, Idelopsocus splendens, Idelopsocus tataricus
+
+  Type specimen: PIN 2050/11(12), a forewing (right forewing). Its type locality is Soyana (PIN collection 2050), which is in a Roadian lagoonal limestone in the Iva-Gora Beds Formation of the Russian Federation.
+
+  Ecology:
+
+  Average measurements (in mm): forewing length 11.5
+
+  Age range: 272.5 to 268.0 Ma
+
+  Distribution: found only at Soyana (PIN collection 2050)
+  |
+  ref
+  txt http://fossilworks.org/?a=taxonInfo&taxon_no=220520
+  img null
+  vid null
+  |
+  publication
+  null
