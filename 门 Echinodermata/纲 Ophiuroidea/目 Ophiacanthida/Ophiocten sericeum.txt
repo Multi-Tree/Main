@@ -1,0 +1,14 @@
+Ophiocten sericeum (Forbes, 1852)
+	中文名：无
+	|
+  null
+  |
+	ref
+	txt null
+	img https://images.app.goo.gl/UxYn7Sy6ekLQ2gmW6
+	vid null
+	|
+	publication
+	null
+	
+
