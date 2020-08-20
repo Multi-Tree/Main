@@ -1,0 +1,14 @@
+Canthigaster amboinensis (Bleeker, 1864)
+	中文名：安邦尖鼻鲀
+	|
+	安邦尖鼻鲀（学名：Canthigaster amboinensis），又名点斑扁背鲀、安朋河鲀、尖嘴规、规仔，为辐鳍鱼纲鲀形目四齿鲀亚目四齿鲀科扁背鲀属下的一个种，为热带海水鱼，分布印度太平洋区，从东非至加拉巴哥群岛，北起日本南部，南迄澳洲大堡礁、社会群岛海域，栖息深度1-16米，体长可达15公分，栖息在浅水域，属杂食性，以藻类、珊瑚、棘皮动物、甲壳类、软体动物等为食，生活习性不明，可作为观赏鱼。
+  |
+	ref
+	txt https://zh.wikipedia.org/wiki/%E5%AE%89%E9%82%A6%E5%B0%96%E9%BC%BB%E9%AD%A8
+	img https://images.app.goo.gl/qZzassihhQYUjNCh8
+	vid null
+	|
+	publication
+	null
+	
+
