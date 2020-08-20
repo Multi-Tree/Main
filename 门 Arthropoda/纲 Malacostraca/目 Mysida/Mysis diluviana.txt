@@ -1,0 +1,14 @@
+Mysis diluviana
+	中文名：无
+	|
+	Mysis diluviana is a mysid crustacean found in freshwater lakes of northern North America. 
+  |
+	ref
+	txt https://en.wikipedia.org/wiki/Mysis_diluviana
+	img https://images.app.goo.gl/9oJj62LkAF38GZQD7
+	vid null
+	|
+	publication
+	null
+	
+
