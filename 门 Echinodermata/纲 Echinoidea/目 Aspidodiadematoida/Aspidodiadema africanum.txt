@@ -1,0 +1,14 @@
+Aspidodiadema africanum (Mortensen, 1939)
+	中文名：无
+	|
+	Aspidodiadema africanum is a species of sea urchin of the family Aspidodiadematidae. Their armour is covered with spines.
+  |
+	ref
+	txt https://en.wikipedia.org/wiki/Aspidodiadema_africanum
+	img null
+	vid null
+	|
+	publication
+	null
+
+
