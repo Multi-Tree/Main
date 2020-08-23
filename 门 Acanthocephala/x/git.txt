@@ -1,8 +1,0 @@
-cd Github
-git init
-git remote add origin urls
-
-git pull origin master
-
-git add .
-git push origin master
