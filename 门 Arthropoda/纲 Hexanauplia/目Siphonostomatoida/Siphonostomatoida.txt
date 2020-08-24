@@ -1,12 +1,11 @@
-Siphonostomatoida is an order of copepods, containing around 75% of all the copepods that parasitise fishes.
-
-学名： Siphonostomatoida
+Siphonostomatoida
 中文名：管口水蚤目
-目： 管口水蚤目; Tamerlan Thorell, 1859
-亚纲： 桡脚类
-上一级分类： 桡脚类
-分类级别： 目
-门： 节肢动物
-
-参考资料：
+|
+Siphonostomatoida is an order of copepods, containing around 75% of all the copepods that parasitise fishes.
+|
+ref
+txt  en.wikipedia.org › wiki › Siphonostomatoida
+img  https://www.google.com.hk/search?q=Siphonostomatoida&tbm=isch&ved=2ahUKEwii-9CznbPrAhWziJ4KHRlMBzkQ2-cCegQIABAA&oq=Siphonostomatoida&gs_lcp=CgNpbWcQAzIECAAQE1C0hglY2pAJYNadCWgAcAB4AIABmAKIAZgCkgEDMi0xmAEAoAEBqgELZ3dzLXdpei1pbWewAQDAAQE&sclient=img&ei=c2BDX-L1BbOR-gSZmJ3IAw&bih=586&biw=1240&safe=strict&hl=zh-CN
+|
+publication：
 1.^ Alan Gunn & Sarah Jane Pitt (2012). "Arthropod parasites". Parasitology: An Integrated Approach . John Wiley & Sons . ISBN 9781119945086 .
