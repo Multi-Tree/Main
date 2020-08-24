@@ -1,8 +1,11 @@
-The Haplotaxida are one of two orders within the annelid subclass Oligochaeta, the other being the Lumbriculida. Wikipedia
 学名： Haplotaxida
-暂无中文名
-上一级分类： 寡毛类
-亚纲： 寡毛类
-分类级别： 目
-门： 环节动物门
-纲： 环带纲
+中文名:无
+|
+The Haplotaxida are one of two orders within the annelid subclass Oligochaeta, the other being the Lumbriculida. 
+|
+ref
+txt  en.wikipedia.org › wiki › Haplotaxida 
+img  https://www.google.com.hk/search?q=Haplotaxida&tbm=isch&ved=2ahUKEwiS7e3cirPrAhWZgZ4KHe9RABoQ2-cCegQIABAA&oq=Haplotaxida&gs_lcp=CgNpbWcQA1DukBJYgJoSYLGcEmgAcAB4AIABAIgBAJIBAJgBAKABAaoBC2d3cy13aXotaW1nsAEAwAEB&sclient=img&ei=3UxDX9KKEZmD-gTvo4HQAQ&bih=586&biw=1240&safe=strict&hl=zh-CN
+|
+publication:
+null
