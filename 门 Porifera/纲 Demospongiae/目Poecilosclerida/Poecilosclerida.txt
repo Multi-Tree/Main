@@ -1,9 +1,11 @@
-学名： Poecilosclerida
-暂无中文名
-上一级分类： 寻常海绵纲
-分类级别： 目
-目： Poecilosclerida; Émile Topsent, 1928
-
-Poecilosclerida is an order of the demosponge class. It is the most speciose demosponge order with over 2200 species. It contains about 25 recognised families. Wikipedia
-
-Poecilosclerida是寻常海绵纲的一种。这是拥有2200多种物种的最特殊的寻常海绵纲动物。它包含大约25个公认的家庭。它们的特征是具有螯子微核，即散布在组织中的微小针状体（通常在10-60μm范围内）在末端具有铲状结构。大多数家庭的胎生是胎生的，具有均匀纤毛的细小孢子虫幼虫。
+Poecilosclerida
+中文名:无
+|
+Poecilosclerida is an order of the demosponge class. It is the most speciose demosponge order with over 2200 species. It contains about 25 recognised families. 
+|
+ref
+txt en.wikipedia.org › wiki › Poecilosclerida
+img https://www.google.com.hk/search?q=Poecilosclerida&safe=strict&hl=zh-CN&source=lnms&tbm=isch&sa=X&ved=2ahUKEwi95czE47LrAhWlKH0KHcw5BEcQ_AUoAXoECBYQAw&biw=1240&bih=586
+|
+publication:
+null
