@@ -1,6 +1,7 @@
-万维百科：
-
-介形纲（学名：Ostracoda），在日语或参考自日语的文献亦作贝虫纲或贝形虫纲，是甲壳亚门之下的一个纲级分类单元，其生物泛称作介形虫或种子虾。目前已辨识的介形虫有约7万个物种，当中只有约1.3万个现生种，其余5万多个皆为化石种[1]，可分类为多个目。介形虫是一种小型的甲壳动物，一般约1 mm（0.039英寸）大小，但也有比较极端的巨海萤属（英语：Gigantocypris）（Gigantocypris（英语：Gigantocypris））物种的尺寸变化从0.2至30 mm（0.008至1.181英寸）。
+Ostracoda
+中文名：介形纲
+|
+介形纲，在日语或参考自日语的文献亦作贝虫纲或贝形虫纲，是甲壳亚门之下的一个纲级分类单元，其生物泛称作介形虫或种子虾。目前已辨识的介形虫有约7万个物种，当中只有约1.3万个现生种，其余5万多个皆为化石种[1]，可分类为多个目。介形虫是一种小型的甲壳动物，一般约1 mm（0.039英寸）大小，但也有比较极端的巨海萤属（英语：Gigantocypris）（Gigantocypris（英语：Gigantocypris））物种的尺寸变化从0.2至30 mm（0.008至1.181英寸）。
 
 现今介形纲生物分布广泛，大部分为淡水与海水中的水生动物，也有部分品种为潮湿地带的陆生动物[2]。
 
@@ -8,11 +9,12 @@
 
 特征：
 介形纲生物均为细小甲壳亚门生物，一般约1毫米（0.04英寸）大，但其大小的差异可以由0.2毫米（0.008英寸）到30毫米（1.2英寸）不等，当中以巨海萤（英语：Gigantocypris）的体型最大。
-
 介形纲的整个身体被包裹在两片介壳当中。这两片介壳是特化的头胸甲，在背脊上具有特殊的铰合结构，并且由专门的肌肉控制，可以自由开闭。
-
 身体分节不明显，头部的两对触角是甲壳亚门的基本特征。根据生活方式的不同，可能有一对触角特别强大，用来划水游泳。附肢的数量较少，并且有明显的分化，可以在海底爬行，或者抓握食物和异性，帮助进食和交配。
-
-参考资料
-^ Richard C. Brusca & Gary J. Brusca. Invertebrates 2nd. Sinauer Associates（英语：Sinauer Associates）. 2003. ISBN 978-0-87893-097-5.
-^ J. D. Stout. The Terrestrial Plankton. Tuatara. 1963, 11 (2): 57–65.
+|
+ref
+txt & img  https://www.wanweibaike.com/wiki-Ostracoda
+|
+publication:
+1.^ Richard C. Brusca & Gary J. Brusca. Invertebrates 2nd. Sinauer Associates（英语：Sinauer Associates）. 2003. ISBN 978-0-87893-097-5.
+2.^ J. D. Stout. The Terrestrial Plankton. Tuatara. 1963, 11 (2): 57–65.
