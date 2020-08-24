@@ -1,9 +1,10 @@
-万维百科：
+Lingulata
+中文名：舌形贝纲
+|
 舌形贝纲是腕足动物门舌形贝亚门之下的两个纲之一。这个纲的物种都是海洋生物，生活在温带和热带海域，肉茎粗大，能在海底钻洞穴居住，肉足可以在洞穴里自由伸缩。绝大部分时间在洞穴里，只靠外套膜上面的三个管子和外界接触。
 
 分类
 舌形贝纲动物作以下分类：
-
 †顶孔贝目 Acrotretida ：又名乳房贝目。
 †顶孔贝超科（Acrotretoidea）
 舌形贝目 Linguilida
@@ -11,8 +12,10 @@
 碟形贝超科（Discinoidea）：又名平圆贝超科。
 舌形贝超科（Linguloidea）
 †管洞贝目 Siphonotretida
-参考文献
-·Introduction to the Lingulata （英语）.
-·（英文） Proof that Lingula (Brachiopoda) is not a living-fossil, and emended diagnoses of the Family Lingulidae A paper that argues that genus Lingula is not as old as most think. By Christian C. Emig.
+|
+ref
+txt & img  https://www.wanweibaike.com/wiki-Lingulata
+|
+publication:
 1.^ 张志飞、舒德干. 早寒武世腕足动物的形态解剖及其进化. 2008 （中文（简体）‎）.
 2.^ 2.0 2.1 詹仁斌; 陈朋飞. 湖北宜昌陈家河下、中奥陶统大湾组腕足动物多样性演变 (PDF). 古生物学报. 2006年1月, 45 (1): 21–31（中文（简体））.
