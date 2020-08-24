@@ -1,12 +1,16 @@
+Uropygi
+中文名：有鞭目 
+|
 鞭蝎，蛛形纲之无脊椎动物，有鞭目的统称。此外鞭蝎也被命名为uropygid亦指“尻尾”，是来自古希腊语的οὐροπύγιον 。鞭蝎为卵胎生繁殖，雌鞭蝎具有带卵行为，约有七十余种，身长通常约5公分以下。有一对特化的触肢，类似感觉的器官，前方的螯夹有助于防御、挖掘、撕裂猎物。
 
-学名： Uropygi
 目： 有鞭目; 奥克塔维乌斯·皮卡德-坎布里奇, 1872
 上一级分类： 四肺類節肢動物
 亚门： 螯肢亚门
 分类级别： 目
 门： 节肢动物
-
-参考资料：
-1.Found in Aristoteles' work: De Anim. Hist., Lib: IV Cap: I.
-2. Günther Schmidt (1993) (German). Giftige und gefährliche Spinnentiere [Poisonous and dangerous arachnids]. Westarp Wissenschaften. ISBN 978-3-89432-405-6.
+|
+ref
+txt & img  https://zh.wikipedia.org/zh-cn/%E6%9C%89%E9%9E%AD%E7%9B%AE
+|
+publication：
+1. Günther Schmidt (1993) (German). Giftige und gefährliche Spinnentiere [Poisonous and dangerous arachnids]. Westarp Wissenschaften. ISBN 978-3-89432-405-6.
