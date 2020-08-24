@@ -1,10 +1,10 @@
-头楯类支序，俗称作泡螺，是一个包括有海螺及海蛞蝓的主要分类，皆为海洋腹足纲软体动物。旧属后鳃目，现时是后鳃类群组之下真后鳃类支序的成员。
-
-学名： Cephalaspidea
+Cephalaspidea
 中文名：头楯目
-上一级分类： 真后鳃类
-分类级别： 目
-纲： 腹足纲
-
-参考资料：
+|
+头楯类支序，俗称作泡螺，是一个包括有海螺及海蛞蝓的主要分类，皆为海洋腹足纲软体动物。旧属后鳃目，现时是后鳃类群组之下真后鳃类支序的成员。
+|
+ref
+txt & img  https://zh.wikipedia.org/wiki/%E9%A0%AD%E6%A5%AF%E7%9B%AE
+|
+publication：
 1.^ Dance SP (1996). Shells. The visual guide to over 500 species of seashell from around the world . Dorling Kindersley . London, New York, Stuttgart.256 pp. pages 200-203. ISBN 0-86318-811-7 .
