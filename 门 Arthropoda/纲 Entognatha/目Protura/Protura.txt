@@ -1,7 +1,8 @@
+Protura
+中文名：原尾目
+|
 原尾目（Protura），是一些居住在土壤中的小型节肢动物（小于2mm）。由于太过不显眼，他们直到20世纪才被发现。原尾目隶属六足亚门并自成一目，原尾目曾被归类为昆虫，有些分类将原尾目升格成纲。有些证据认为原尾目是所有六足亚门的基群。原尾目的发展过程为增节发育，体节数目随着蜕皮而增加，这点与其他的六足亚门成员不同，原尾目的数量接近7科800种。有接近300种属于古蚖属。
 
-学名： Protura
-中文名：原尾目
 目： 原尾目; 菲利浦·西爾維斯特利, 1907
 上一级分类： 内口纲
 分类级别： 纲
@@ -23,6 +24,9 @@
 古蚖亚目 Eosentomata Yin,1996
 古蚖科 Eosentomidae Berlese,1909
 旭蚖科 Antelientomidae Yin,1996
-
-参考资料：
+|
+ref
+txt & img  https://zh.wikipedia.org/wiki/%E5%8E%9F%E5%B0%BE%E7%9B%AE
+|
+publication：
 1. Charles S. Henry. Insect phylogeny. University of Connecticut. 2005. 
