@@ -1,9 +1,11 @@
-学名： Callipodida
-暂无中文名
-分类级别： 目
-目： Callipodida; 雷金纳德·英尼斯·波科克, 1894
-
+Callipodida
+中文名:无
+|
 Callipodida is an order of millipedes containing around 130 species , many characterized by crests or ridges.
-
-参考资料：
+|
+ref
+txt  en.wikipedia.org › wiki › Callipodida
+img  https://www.google.com.hk/search?q=Callipodida&tbm=isch&ved=2ahUKEwipoaKnmbPrAhVVh54KHZCMBwYQ2-cCegQIABAA&oq=Callipodida&gs_lcp=CgNpbWcQA1DTrhlY4boZYJK9GWgAcAB4AIABAIgBAJIBAJgBAKABAaoBC2d3cy13aXotaW1nsAEAwAEB&sclient=img&ei=J1xDX-nxGdWO-gSQmZ4w&bih=586&biw=1240&safe=strict&hl=zh-CN
+|
+publication：
 1.^ "Diagnostic features of Millipede Orders" (PDF) . Milli-PEET Identification Tables . The Field Museum, Chicago . Retrieved 25 October 2013 .
