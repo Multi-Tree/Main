@@ -1,12 +1,10 @@
-学名： Embiidina
-别名：Embioptera
+Embiidina
 中文名：纺足目
-目： 纺足目; Auguste Lameere, 1900
-上一级分类： 外翅总目
-亚纲： 有翅亚纲
-分类级别： 目
-界： 动物
-下一级分类： Anisembiidae， Teratembiidae
-
-参考资料：
+|
+纺足目是分布于热带及亚热带的一小类昆虫，通称足丝蚁，丝蚁。其学名Embioptera源于希腊文ἔμβιος活的，和πτερὀν翅，或谓其能快速前后翻飞的翅膀。中文名源于其能分泌丝线的前足附节，更贴切的概括了此目主要特征。
+|
+ref
+txt & img  https://zh.wikipedia.org/wiki/%E7%BA%BA%E8%B6%B3%E7%9B%AE
+|
+publication：
 1.^ Gibb, Timothy J. (2014). Contemporary Insect Diagnostics: The Art and Science of Practical Entomology . Academic Press. p. 87. ISBN 978-0-12-404692-4 .
