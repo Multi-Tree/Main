@@ -1,2 +1,10 @@
-学名：Limnognathida
+Limnognathida
 中文名：颚虫目 
+|
+null
+|
+ref
+txt & img  https://zh.wikipedia.org/wiki/%E5%BE%AE%E9%A2%9A%E5%8A%A8%E7%89%A9
+|
+publication:
+null
