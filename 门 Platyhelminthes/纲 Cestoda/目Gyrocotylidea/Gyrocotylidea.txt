@@ -1,13 +1,12 @@
+Gyrocotylidea
+中文名：无
+|
 Gyrocotylidea is an order of Cestoda (tapeworms). [1] Members of this order are parasites of vertebrates, living in the coelom (the body cavity).
-
-学名： Gyrocotylidea
-暂无中文名
-分类级别： 目
-纲： 绦虫纲
-亚类： 単節条虫亜綱
-
-参考资料：
+|
+ref
+txt en.wikipedia.org › wiki › Gyrocotylidea
+img https://www.google.com.hk/search?q=Gyrocotylidea&tbm=isch&ved=2ahUKEwjWi6yE6LLrAhVRh54KHRsCCHQQ2-cCegQIABAA&oq=Gyrocotylidea&gs_lcp=CgNpbWcQAzIECAAQE1DGgghYoY4IYLKRCGgAcAB4AIABlwKIAZcCkgEDMi0xmAEAoAEBqgELZ3dzLXdpei1pbWewAQDAAQE&sclient=img&ei=fChDX9bdM9GO-gSbhKCgBw&bih=586&biw=1240&safe=strict&hl=zh-CN
+|
+publication：
 1.^ Bray, Rod (2018). "Gyrocotylidea" . WoRMS . World Register of Marine Species . Retrieved 19 May 2018 .
 2.^ Cheng, Thomas C. (2012). General Parasitology . Elsevier Science. pp. 469–472. ISBN 978-0-323-14010-2 .
-
-
