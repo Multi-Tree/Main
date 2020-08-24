@@ -1,11 +1,11 @@
+Mononchida
+中文名:无
+|
 Mononchida is an order of nematodes . 
-暂无中文名
-Kingdom:	Animalia
-Phylum:	Nematoda
-Class:	Enoplea
-Subclass:	Dorylaimia
-Order:	Mononchida 
-Jairajpuri, 1969
-
-参考资料：
+|
+ref
+txt  en.wikipedia.org › wiki › Mononchida
+img  https://www.google.com.hk/search?q=Mononchida&tbm=isch&ved=2ahUKEwi_qJbE77LrAhVDlJ4KHSVOCbEQ2-cCegQIABAA&oq=Mononchida&gs_lcp=CgNpbWcQAzIECAAQE1CIr4cDWPi4hwNggZuIA2gAcAB4AIABlQSIAZUEkgEDNS0xmAEAoAEBqgELZ3dzLXdpei1pbWewAQDAAQE&sclient=img&ei=WTBDX_-XLsOo-gSlnKWICw&bih=586&biw=1240&safe=strict&hl=zh-CN
+|
+publication：
 1.^ Catalogue of Life: 30 May 2014
