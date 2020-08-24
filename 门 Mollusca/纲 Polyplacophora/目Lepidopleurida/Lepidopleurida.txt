@@ -1,3 +1,6 @@
+Lepidopleurida
+中文名：鳞侧石鳖目
+|
 鳞侧石鳖目（学名：Lepidopleurida），是新石鳖亚纲的一个目
 
 分类：
@@ -11,6 +14,9 @@ Nierstraszellidae Sirenko, 1992
 此外，Ferreiraellidae Dell'Angelo & Palazzi, 1991 被认为是Abyssochitonidae Dell'Angelo & Palazzi, 1989的同种异名；
 Lepidopleuridae Pilsbry, 1892 被认为是Leptochitonidae Dall, 1889的同种异名；
 Xylochitonidae Gowlett-Holmes & Jones, 1992 被认为是Abyssochitonidae Dell'Angelo & Palazzi, 1989的同种异名。
-
-参考资料：
+|
+ref
+txt & img https://zh.wikipedia.org/zh-cn/%E9%B3%9E%E4%BE%A7%E7%9F%B3%E9%B3%96%E7%9B%AE
+|
+publication：
 1. Schwabe, Enrico. Lepidopleurida. World Register of Marine Species. [2015-05-27].
