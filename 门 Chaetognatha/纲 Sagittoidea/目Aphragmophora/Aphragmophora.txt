@@ -7,7 +7,7 @@ ref
 null
 |
 publication：
-1.^ a b c Tokioka, T. (1965). The taxonomical outline of Chaetognatha. Publications of the Seto Marine Biological Laboratory , 12, 335–357.
+1.^ Tokioka, T. (1965). The taxonomical outline of Chaetognatha. Publications of the Seto Marine Biological Laboratory , 12, 335–357.
 2.^ Bieri, R. (1989). Krohnittellidae and Bathybelidae, new families in the phylum Chaetognatha; the rejection of the family Tokiokaispadellidae and the genera Tokiokaisapadella , Zahonya , and Aberrospadella . Proceedings of the Biological Society of Washington , 102(4), 973–976.
 3.^ Bieri, R. (1991). Systematics of the Chaetognatha. In Bone, Q., Kapp, H. & Pierrot-Bults, A. (Eds.), The Biology of Chaetognaths . Oxford: Oxford University.
 4.^ Claus, C. & Grobben, K. (1905). Lehrbuch der Zoologie . 7ᵗʰ edition. Marburg-Heßen: NG Elwertsche Verlagsbuchhandlung.
