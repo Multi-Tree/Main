@@ -1,9 +1,13 @@
+Bdelloidea
+中文名：蛭形轮虫
+|
 蛭形轮虫（拉丁语：Bdelloidea，/ˈdɛlɔɪdiə/）是轮形动物门的一个纲，名称源自希腊语 βδελλα, bdella,意为"水蛭状"，是一类在世界各地淡水生态环境中生活的生物。有超过450个已被描述的物种，通过形态学的差异彼此区分。
-
-学名： Bdelloidea
 上一级分类： 轮形动物门
 分类级别： 纲
 纲： 蛭形轮虫; Hudson, 1884
-
-参考资料：
+|
+ref
+txt & img  https://zh.wikipedia.org/wiki/%E8%9B%AD%E5%BD%A2%E8%BD%AE%E8%99%AB
+|
+publication：
 1. Segers, Hendrick. Annotated checklist of the rotifers (Phylum Rotifera), with notes on nomenclature, taxonomy and distribution (PDF). Auckland: Magnolia Press. 2007. ISBN 978-1-86977-129-4.
