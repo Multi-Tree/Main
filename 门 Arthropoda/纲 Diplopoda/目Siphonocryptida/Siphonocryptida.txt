@@ -1,15 +1,11 @@
-Siphonocryptida is an order of millipedes , comprising the sole family Siphonocryptidae . With only seven described species, the Siphonocryptida is the second smallest millipede order, surpassed only by Siphoniulida , with two species.
+Siphonocryptida
 中文名：隐孢子虫
-Kingdom:	Animalia
-Phylum:	Arthropoda
-Subphylum：Myriapoda
-Class:	Diplopoda
-Subclass:	Chilognatha
-Infraclass:	Helminthomorpha
-Order:	Siphonocryptida 
-Cook , 1895
-Family:	Siphonocryptidae
-Pocock , 1894
-
-参考资料：
+|
+Siphonocryptida is an order of millipedes , comprising the sole family Siphonocryptidae . With only seven described species, the Siphonocryptida is the second smallest millipede order, surpassed only by Siphoniulida , with two species.
+|
+ref
+txt  en.wikipedia.org › wiki › Siphonocryptida
+img  https://www.google.com.hk/search?q=Siphonocryptida&tbm=isch&ved=2ahUKEwityJyYm7PrAhUBmJ4KHfyPCIwQ2-cCegQIABAA&oq=Siphonocryptida&gs_lcp=CgNpbWcQA1DSixdYmZcXYLKZF2gAcAB4AIABAIgBAJIBAJgBAKABAaoBC2d3cy13aXotaW1nsAEAwAEB&sclient=img&ei=IF5DX624LYGw-gT8n6LgCA&bih=586&biw=1240&safe=strict&hl=zh-CN
+|
+publication：
 1.^ Enghoff, H (2010). "A new strikingly coloured species of Siphonocryptus , sixth of its order (Diplopoda: Siphonocryptida)" (PDF) . Zootaxa . 2681 : 66–68.
