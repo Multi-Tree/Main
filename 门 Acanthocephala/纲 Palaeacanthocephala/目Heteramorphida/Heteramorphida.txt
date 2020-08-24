@@ -1,1 +1,16 @@
-暂无信息
+Heteramorphida
+中文名：无
+|
+Superregnum: Eukaryota 
+Regnum: Animalia 
+Phylum: Acanthocephala 
+Classis: Palaeacanthocephala 
+Ordo: Heteramorphida 
+Familiae (1): Pyrirhynchidae
+|
+ref
+txt https://species.wikimedia.org/wiki/Heteramorphida
+img null
+|
+publication:
+1.Amin, OM ; Ha, NV 2008: On a new acanthocephalan family and a new order, from birds in Vietnam. Journal of parasitology , 94(6): 1305–1310. DOI : 10.1645/GE-1473.1
