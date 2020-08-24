@@ -1,2 +1,12 @@
-Biemnida is an order of demosponges in the subclass Heteroscleromorpha. Wikipedia(Biemnida是Heteroscleromorpha子类中的一种寻常海绵纲动物。)
-暂无中文名
+Biemnida
+中文名：无
+|
+Biemnida is an order of demosponges in the subclass Heteroscleromorpha.
+|
+ref
+txt  en.wikipedia.org › wiki › Biemnida
+img  https://www.google.com.hk/search?q=Biemnida&safe=strict&hl=zh-CN&source=lnms&tbm=isch&sa=X&ved=2ahUKEwiVvPDt4bLrAhUMqp4KHRAeB_YQ_AUoAnoECBMQBA&biw=1240&bih=586
+|
+publication:
+1.^ Morrow, CC; Redmond, NE; Picton, BE; Thacker, RW; Collins, AG; Maggs, CA; Sigwart, JD; Allcock, AL (2013). Molecular Phylogenies Support Homoplasy of Multiple Morphological Characters Used in the Taxonomy of Heteroscleromorpha (Porifera, Demospongiae). Integrative and Comparative Biology. 53 (3): 428-446., page(s): 444.
+2.^ van Soest, R. (2015). Biemnida. In: Van Soest, RWM; Boury-Esnault, N.; Hooper, JNA; Rützler, K.; de Voogd, NJ; Alvarez de Glasby, B.; Hajdu, E.; Pisera, AB; Manconi, R.; Schoenberg, C.; Klautau, M.; Picton, B.; Kelly, M.; Vacelet, J.; Dohrmann, M.; Díaz, M.-C.; Cárdenas, P.; Carballo, JL (2016). World Porifera database. Accessed through: World Register of Marine Species on 2017-02-17.
