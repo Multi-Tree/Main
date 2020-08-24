@@ -1,10 +1,9 @@
-万维百科：
-脊索动物门（学名：Chordata）是指有脊索，或其在演化过程退化而被脊椎取代的动物。是动物界生态位最顶级的门。
-
+Chordata
+中文名：脊索动物门
+|
+脊索动物门是指有脊索，或其在演化过程退化而被脊椎取代的动物。是动物界生态位最顶级的门。
 就其物种多样性而言，是动物界的第三大门， 仅次于节肢动物门和软体动物门，其已确认的物种数量有约6.6万种。
-
 少数学者提出将半索动物门也置于脊索动物门下，并命名为口索动物亚门。
-
 通常说的脊椎动物学主要是指研究脊索动物的一个动物学分支，不单单是研究脊椎动物。
 
 特征：
@@ -12,7 +11,6 @@
 
 分类：
 脊索动物之间的关系如下图的系统发生树所示。因为它和传统的分类类群并未有很好的吻合，所以对脊椎动物的分类还存在争论。在这个分类系统下，人类属于脊索动物门(Chordata)的嗅球类(Olfactores)→脊椎动物亚门(Vertebrata)→甲胄鱼类(Ostracoderms)→硬骨鱼总纲(Osteichthyes)→肉鳍鱼纲(Sarcopterygii)→四足总纲(Tetrapoda)→羊膜动物(Amniota)→合弓纲(Synapsida)→哺乳纲(Mammalia)。
-
 脊索动物门
 †古虫动物亚门? Vetulicolia
 头索动物亚门 Cephalochordata
@@ -24,14 +22,10 @@
 尾海鞘纲 Larvacea
 †山口海鞘纲 Shankouclava
 脊椎动物亚门 Vertebrata
-
-参考文献
-1.^ 中国大百科智慧藏：脊索动物门
-2.^ The World Conservation Union. 2014. IUCN Red List of Threatened Species, 2014.3. Summary Statistics for Globally Threatened Species. Table 1: Numbers of threatened species by major groups of organisms (1996–2014).
-3.^ Benton, M.J. (2004). Vertebrate Palaeontology, Third Edition. Blackwell Publishing. The classification scheme is available online 页面存档备份，存于互联网档案馆
-4.^ Nelson, J.S. Fishes of the World 4th. New York: John Wiley and Sons, Inc. 2006. ISBN 978-0-471-25031-9 （英语）.
-5.^ Putnam, N. H.; Butts, T.; Ferrier, D. E. K.; Furlong, R. F.; Hellsten, U.; Kawashima, T.; Robinson-Rechavi, M.; Shoguchi, E.; Terry, A.; Yu, J. K.; Benito-Gutiérrez, E. L.; Dubchak, I.; Garcia-Fernàndez, J.; Gibson-Brown, J. J.; Grigoriev, I. V.; Horton, A. C.; De Jong, P. J.; Jurka, J.; Kapitonov, V. V.; Kohara, Y.; Kuroki, Y.; Lindquist, E.; Lucas, S.; Osoegawa, K.; Pennacchio, L. A.; Salamov, A. A.; Satou, Y.; Sauka-Spengler, T.; Schmutz, J.; Shin-i, T. The amphioxus genome and the evolution of the chordate karyotype. Nature. June 2008, 453 (7198): 1064–1071. Natur.453.1064P Bibcode:2008 Natur.453.1064P. PMID 18563158. doi:10.1038/nature06967 （英语）.
-6.^ Ota, K. G.; Kuratani, S. Cyclostome embryology and early evolutionary history of vertebrates. Integrative and Comparative Biology. September 2007, 47 (3): 329–337. PMID 21672842. doi:10.1093/icb/icm022 （英语）.
-7.^ Delsuc F, Philippe H, Tsagkogeorga G, Simion P, Tilak MK, Turon X, López-Legentil S, Piette J, Lemaire P, Douzery EJ. A phylogenomic framework and timescale for comparative studies of tunicates. BMC Biology. April 2018, 16 (1): 39. PMC 5899321. PMID 29653534. doi:10.1186/s12915-018-0499-2 （英语）.
-8.^ Goujet, Daniel F, Placodermi (Armoured Fishes), ELS, John Wiley & Sons, Ltd: 1–7, 2015-02-16, ISBN 9780470015902, doi:10.1002/9780470015902.a0001533.pub2 （英语）
-9.^ Jefferies, R. P. S. (1991) in Biological Asymmetry and Handedness (eds Bock, G. R.; Marsh, J.) pp. 94-127 (Wiley, Chichester).
+|
+ref
+txt & img  
+|
+publication：
+1.^ Ota, K. G.; Kuratani, S. Cyclostome embryology and early evolutionary history of vertebrates. Integrative and Comparative Biology. September 2007, 47 (3): 329–337. PMID 21672842. doi:10.1093/icb/icm022 .
+2.^ Delsuc F, Philippe H, Tsagkogeorga G, Simion P, Tilak MK, Turon X, López-Legentil S, Piette J, Lemaire P, Douzery EJ. A phylogenomic framework and timescale for comparative studies of tunicates. BMC Biology. April 2018, 16 (1): 39. PMC 5899321. PMID 29653534. doi:10.1186/s12915-018-0499-2 .
