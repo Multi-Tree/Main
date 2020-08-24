@@ -1,11 +1,11 @@
+Stauromedusae
+中文名:无
+|
 Stauromedusae are the stalked jellyfishes . They are the sole living members of the class Staurozoa , and belong to the medusozoa subphylum of Cnidaria . They are unique among medusa jellyfish in that they do not have an alternation of polyp and medusa life cycle phases but are instead interpreted as an attached medusa stage, with a life style more resembling that of polypoid forms. They have a generally trumpet-shaped body, oriented upside-down in comparison with other jellyfish, with the tentacles projecting upwards, and the stalk located in the centre of the umbrella.
-
-学名： Stauromedusae
-暂无中文名
-上一级分类： Staurozoa
-分类级别： 目
-目： Stauromedusae; 恩斯特·海克尔, 1879
-门： 刺胞动物门
-
-参考资料：
+|
+ref
+txt  en.wikipedia.org › wiki › Stauromedusae
+img  https://www.google.com.hk/search?q=Stauromedusae&tbm=isch&ved=2ahUKEwiGkZT957LrAhUVkp4KHacGCyUQ2-cCegQIABAA&oq=Stauromedusae&gs_lcp=CgNpbWcQAzIECAAQE1D7RFjmTmC5VWgAcAB4AIABmAKIAZgCkgEDMi0xmAEAoAEBqgELZ3dzLXdpei1pbWewAQDAAQE&sclient=img&ei=bShDX8amL5Wk-gSnjayoAg&bih=586&biw=1240&safe=strict&hl=zh-CN
+|
+publication：
 1.^ Liu, AG; Matthews, JJ; Menon, LR; McIlroy, D.; Brasier, MD (22 October 2014). " Haootia quadriformis n. gen., n. sp., interpreted as a muscular cnidarian impression from the Late Ediacaran period (approx. 560 Ma)" . Proceedings of the Royal Society B: Biological Sciences . 281 (1793): 20141202. doi : 10.1098/rspb.2014.1202 . PMC 4173675 . PMID 25165764 .
