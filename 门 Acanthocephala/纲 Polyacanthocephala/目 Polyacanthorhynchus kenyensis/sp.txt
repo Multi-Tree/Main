@@ -1,0 +1,119 @@
+<<<<<<< HEAD
+Polyacanthorhynchus kenyensis
+中文名：无
+|
+It was first reported by Baylis (1928) but formally
+described as Polyacanthorhynchus kenyensis by Schmidt
+and Canaris (1967). That description was incomplete as it was
+based on measurements of only 2 males because of the poor
+quality of the few specimens available to the authors. Our larger
+sample of good quality material obtained from Tilapia zilli,
+Orechromis leucostictus, and Micropterus salmoides in Kenya
+provided new information, making it necessary to emend the
+description.
+
+Emended description
+General: With characters of the genus. Trunk and other shared structures
+similar in size and shape in males and females except for slightly
+larger proboscis receptacle in males and apical proboscis hooks in females,
+and more cuticular trunk spines per circle in males than in
+females. Trunk cylindrical with many small ovoid hypodermic nuclei;
+main lacunar canals dorsal and ventral with regular lateral branches.
+Trunk broadens slightly anteriorly into an armed part with parallel sides
+bearing 9-12 circles of 18-32 cuticular spines each. Spines are decidedly
+more numerous anteriorly than posteriorly where they are somewhat
+larger, especially in females. Spines pierce through cuticular theca distally
+and split proximally into 2-8 rootlike processes. Trunk stout and
+much wider at middle but becomes gradually and significantly more
+slenderp osteriorly,r esemblinga seahorse. Proboscis long, club-shaped,
+with a proximalc onstrictiona nd anterioro void enlargementd; istal end
+sparsely armed and terminating in a conically shaped projection containing
+an apical organ with a duct and anterior opening. Apical structure
+delineated internally with anterior insertion of 2 sets of strongp roboscis
+retractorm uscles that pass posteriorly throught he proboscis receptacle
+into the body cavity to insert dorsally and ventrally at the level of the
+posterior end of the middle stout region of the trunk. Proboscis armed
+with 21 or 22 regularly alternating longitudinal rows of 26 rooted hooks
+each, throughout its length; hooks not differentiated dorsoventrally.
+Apical hooks stout, with proximal half shoulder-like. Anterior hooks
+often sleeved basally with cuticular outfoldings that may cover entire
+shoulder of apical hooks. Postapical hooks stout and larger but become
+progressively smaller and more slender posteriorly reaching smallest
+size basally.Roots of all hooks simple and directed posteriorly,shorter
+than blades apically, about equal in size medially, then shorter posteriorly,
+and with anterior manubria basally.Neck insignificant P. roboscis
+receptacle slightly longer than proboscis,single-walled,inserted at base
+of proboscis, and with a brain near its middle at level of posteriormost
+circle of cuticular spines. Lemnisci equal, large and wide, and about
+twice as long as proboscis receptacle, extending to level of posterior
+insertion of proboscis retractor muscles. Reproductive system poorly
+developed and occupies narrow posterior end of trunk; genital pores
+terminal.
+|
+ref
+txt https://www.researchgate.net/publication/15322210_Taxonomic_Notes_on_Polyacanthorhynchus_kenyensis_Acanthocephala_Polyacanthorhynchidae_from_Lake_Naivasha_Kenya
+img http://sveb.unife.it/it/ricerca-1/laboratori/parassitolgia-istopatologia-immunoistochimica-ed-ultrastruttura/allegati/parasites; https://www.researchgate.net/publication/15322210_Taxonomic_Notes_on_Polyacanthorhynchus_kenyensis_Acanthocephala_Polyacanthorhynchidae_from_Lake_Naivasha_Kenya
+vid null
+|
+pub
+null
+=======
+Polyacanthorhynchus kenyensis 
+中文名：无
+|
+It was first reported by Baylis (1928) but formally
+described as Polyacanthorhynchus kenyensis by Schmidt
+and Canaris (1967). That description was incomplete as it was
+based on measurements of only 2 males because of the poor
+quality of the few specimens available to the authors. Our larger
+sample of good quality material obtained from Tilapia zilli,
+Orechromis leucostictus, and Micropterus salmoides in Kenya
+provided new information, making it necessary to emend the
+description.
+
+Emended description
+General: With characters of the genus. Trunk and other shared structures
+similar in size and shape in males and females except for slightly
+larger proboscis receptacle in males and apical proboscis hooks in females,
+and more cuticular trunk spines per circle in males than in
+females. Trunk cylindrical with many small ovoid hypodermic nuclei;
+main lacunar canals dorsal and ventral with regular lateral branches.
+Trunk broadens slightly anteriorly into an armed part with parallel sides
+bearing 9-12 circles of 18-32 cuticular spines each. Spines are decidedly
+more numerous anteriorly than posteriorly where they are somewhat
+larger, especially in females. Spines pierce through cuticular theca distally
+and split proximally into 2-8 rootlike processes. Trunk stout and
+much wider at middle but becomes gradually and significantly more
+slenderp osteriorly,r esemblinga seahorse. Proboscis long, club-shaped,
+with a proximalc onstrictiona nd anterioro void enlargementd; istal end
+sparsely armed and terminating in a conically shaped projection containing
+an apical organ with a duct and anterior opening. Apical structure
+delineated internally with anterior insertion of 2 sets of strongp roboscis
+retractorm uscles that pass posteriorly throught he proboscis receptacle
+into the body cavity to insert dorsally and ventrally at the level of the
+posterior end of the middle stout region of the trunk. Proboscis armed
+with 21 or 22 regularly alternating longitudinal rows of 26 rooted hooks
+each, throughout its length; hooks not differentiated dorsoventrally.
+Apical hooks stout, with proximal half shoulder-like. Anterior hooks
+often sleeved basally with cuticular outfoldings that may cover entire
+shoulder of apical hooks. Postapical hooks stout and larger but become
+progressively smaller and more slender posteriorly reaching smallest
+size basally.Roots of all hooks simple and directed posteriorly,shorter
+than blades apically, about equal in size medially, then shorter posteriorly,
+and with anterior manubria basally.Neck insignificant P. roboscis
+receptacle slightly longer than proboscis,single-walled,inserted at base
+of proboscis, and with a brain near its middle at level of posteriormost
+circle of cuticular spines. Lemnisci equal, large and wide, and about
+twice as long as proboscis receptacle, extending to level of posterior
+insertion of proboscis retractor muscles. Reproductive system poorly
+developed and occupies narrow posterior end of trunk; genital pores
+terminal.
+|
+ref
+txt https://www.researchgate.net/publication/15322210_Taxonomic_Notes_on_Polyacanthorhynchus_kenyensis_Acanthocephala_Polyacanthorhynchidae_from_Lake_Naivasha_Kenya
+img http://sveb.unife.it/it/ricerca-1/laboratori/parassitolgia-istopatologia-immunoistochimica-ed-ultrastruttura/allegati/parasites; https://www.researchgate.net/publication/15322210_Taxonomic_Notes_on_Polyacanthorhynchus_kenyensis_Acanthocephala_Polyacanthorhynchidae_from_Lake_Naivasha_Kenya
+vid null
+|
+pub
+null
+>>>>>>> 053ddaa9279f978e9f92d458b7fddde2d7f1bea5
