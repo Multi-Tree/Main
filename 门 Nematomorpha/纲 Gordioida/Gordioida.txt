@@ -1,0 +1,8 @@
+Gordioida
+|
+Gordioida is een klasse van paardehaarwormen (Nematomorpha). De soorten in deze klasse zijn gerelateerd aan hun voorkomen in of nabij zoet water. In Nederland komt één soort voor, de Gordius setiger.
+|
+ref
+txt:https://nl.wikipedia.org/wiki/Gordioida
+|
+null
