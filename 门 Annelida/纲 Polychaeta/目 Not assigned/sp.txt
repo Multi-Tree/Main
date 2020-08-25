@@ -1,0 +1,16 @@
+Orbinia latreillii (Audouin & Milne-Edwards, 1833)
+中文名：无
+|
+Members of the class Polychaeta are mostly gonochoric (sexual). 
+
+Mating: Females produce a pheromone attracting and signalling the males to shed sperm which in turn stimulates females to shed eggs, this behavior is known as swarming. Gametes are spawned through the metanephridia or body wall rupturing (termed as "epitoky", wherein a pelagic, reproductive individual, "epitoke", is formed from a benthic, nonreproductive individual, "atoke"). After fertilization, most eggs become planktonic; although some are retained in the worm tubes or burrowed in jelly masses attached to the tubes (egg brooders). 
+
+Life Cycle: Eggs develop into trocophore larva, which later metamorph into juvenile stage (body lengthened), and later develop into adults (Ref. 833).
+|
+ref
+txt https://sealifebase.ca/summary/Orbinia-latreillii.html
+img https://www.biolib.cz/en/image/id40259/ [Author: Karla Otta]
+vid null
+|
+publication
+null
