@@ -1,0 +1,12 @@
+Phylactolaemata
+中文名：被唇纲
+|
+被唇纲是外肛动物门的一个纲。例如羽苔虫、小栉苔虫等。
+
+Phylactolaemata is a class of the phylum Bryozoa whose members live only in freshwater environments. Like all bryozoans, they filter feed by means of an extensible "crown" of ciliated tentacles called a lophophore. They live in colonies, each of which consists of clones of the founding member.
+|
+ref
+txt https://zh.wikipedia.org/wiki/%E8%A2%AB%E5%94%87%E7%BA%B2
+    https://en.wikipedia.org/wiki/Phylactolaemata
+|
+null
